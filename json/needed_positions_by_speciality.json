@@ -1,0 +1,115 @@
+{
+  "description_generale": "Ce document represente une vue d'ensemble des positions à pourvoir par spécialité pour chaque session",
+  "specialites_by_sessions": [
+	{
+	  "label": "**Session Passage de grade 2025-2026**",
+	  "code": "session_25-26",
+      "etat": "DISPONIBLE",
+	  "description_etat": "toutes les chiffres et les statistiques (totales ou par speciallité) pour la session 2024-2025 sont en etat=DISPONIBLE",
+      "nombre_total_positions_demandees_total": 25,
+	  "nombre_total_candidats_participants_total": 25,
+	  "chiffres_par_specialites": [
+		{
+			"tic": 
+			{
+				"label_specialite_tic": "Technologies de l’Information et de la Communication",
+				"etat_tic": "ACTIVE",
+				"nombre_positions_demandees_tic": 16,
+				"nombre_candidats_participants_tic": 16
+				
+			},
+			"math":
+			{
+				"label_specialite_math": "Mathématiques",
+				"etat_math": "ACTIVE",
+				"nombre_positions_demandees_math": 4,
+				"nombre_candidats_participants_math": 4
+			},
+			"lcc":
+			{
+				"label_specialite_lcc": "Langue et Communication et Citoyenneté",
+				"etat_lcc": "ACTIVE",
+				"nombre_positions_demandees_lcc": 2,
+				"nombre_candidats_participants_lcc": 2
+			},
+			"em":
+			{
+				"label_specialite_em": "Électromécanique",
+				"etat_em": "ACTIVE",
+				"nombre_positions_demandees_em": 2,
+				"nombre_candidats_participants_em": 2
+			},
+			"gc":
+			{
+				"label_specialite_gc": "Génie Civil",
+				"etat_gc": "ACTIVE",
+				"nombre_positions_demandees_gc": 1,
+				"nombre_candidats_participants_gc": 1
+			},
+			"ged":
+			{
+				"label_specialite_ged": "Génie Énergétique et Développement Durable",
+				"etat_ged": "ACTIVE",
+				"nombre_positions_demandees_ged": 0,
+				"nombre_candidats_participants_ged": 0
+			}
+		}
+	  ]
+	},
+	{
+	  "label": "**Session Passage de grade 2024-2025**",
+	  "code": "session_24-25",
+      "etat": "DISPONIBLE",
+	  "description_etat": "toutes les chiffres et les statistiques (totales ou par speciallité) pour la session 2024-2025 sont en etat=DISPONIBLE",
+      "nombre_total_positions_demandees_total": 55,
+	  "nombre_total_candidats_participants_total": 40,
+	  "chiffres_par_specialites": [
+		{
+			"tic": 
+			{
+				"label_specialite_tic": "Technologies de l’Information et de la Communication",
+				"etat_tic": "ACTIVE",
+				"nombre_positions_demandees_tic": 30,
+				"nombre_candidats_participants_tic": 25
+				
+			},
+			"math":
+			{
+				"label_specialite_math": "Mathématiques",
+				"etat_math": "ACTIVE",
+				"nombre_positions_demandees_math": 15,
+				"nombre_candidats_participants_math": 10
+			},
+			"ged":
+			{
+				"label_specialite_ged": "Génie Énergétique et Développement Durable",
+				"etat_ged": "ACTIVE",
+				"nombre_positions_demandees_ged": 3,
+				"nombre_candidats_participants_ged": 2
+			},
+			"gc":
+			{
+				"label_specialite_gc": "Génie Civil",
+				"etat_gc": "ACTIVE",
+				"nombre_positions_demandees_gc": 3,
+				"nombre_candidats_participants_gc": 1
+			},
+			"em":
+			{
+				"label_specialite_em": "Électromécanique",
+				"etat_em": "ACTIVE",
+				"nombre_positions_demandees_em": 2,
+				"nombre_candidats_participants_em": 2
+			},
+			"lcc":
+			{
+				"label_specialite_lcc": "Langue et Communication et Citoyenneté",
+				"etat_lcc": "ACTIVE",
+				"nombre_positions_demandees_lcc": 2,
+				"nombre_candidats_participants_lcc": 0
+			}
+		}
+	  ]
+	}
+  ]
+}

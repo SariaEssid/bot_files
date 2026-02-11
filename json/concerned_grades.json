@@ -1,0 +1,154 @@
+{
+  "description_generale": "Ce document represente une vue d'ensemble des grades actives pour chaque session",
+  "regles_generales": {
+    "nombre_candidatures_simultanees": 1,
+    "message_restriction": "Postuler pour deux grades est non autorisé : Chaque candidat a le droit de postuler à un seul grade actif par session.Il est impossible de postuler pour 2 grades au même temps, même si ces 2 grades sont actifs. CHAQUE Grade a son propre etat et ses propres spécialités concernées. Les 3 grades 'Enseignant de Langue, de Communication et de Citoyenneté Classe 1' et 'Enseignant de Langue, de Communication et de Citoyenneté Classe 2' et 'Enseignant de Langue, de Communication et de Citoyenneté' TOTALEMENT sont différents"
+  },
+  "sessions": [
+    {
+      "label": "Session Passage de Grade 2025-2026",
+      "etat": "EN_COURS",
+      "grades": [
+        {
+          "nom": "Enseignant Formateur Associé",
+          "niveau": 4,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": [
+            "Mathématiques",
+            "Génie Civil",
+            "Électromécanique",
+            "Technologies de l'information",
+            "Génie Énergétique"
+          ]
+        },
+        {
+          "nom": "Enseignant Formateur",
+          "niveau": 3,
+          "statut": "ACTIF",
+          "specialites_concernees": [
+            "Mathématiques",
+            "Génie Civil",
+            "Électromécanique",
+            "Technologies de l'information",
+            "Génie Énergétique"
+          ]
+        },
+        {
+          "nom": "Enseignant Formateur Sénior",
+          "niveau": 2,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": [
+            "Mathématiques",
+            "Génie Civil",
+            "Électromécanique",
+            "Technologies de l'information",
+            "Génie Énergétique"
+          ]
+        },
+        {
+          "nom": "Enseignant Formateur Manager",
+          "niveau": 1,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": [
+            "Mathématiques",
+            "Génie Civil",
+            "Électromécanique",
+            "Technologies de l'information",
+            "Génie Énergétique"
+          ]
+        },
+		{
+          "nom": "Enseignant de Langue, de Communication et de Citoyenneté Classe 2",
+          "niveau": 2,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": ["Langues"]
+        },
+        {
+          "nom": "Enseignant de Langue, de Communication et de Citoyenneté Classe 1",
+          "niveau": 1,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": ["Langues"]
+        },
+        {
+          "nom": "Enseignant de Langue, de Communication et de Citoyenneté",
+          "niveau": 3,
+          "statut": "ACTIF",
+          "specialites_concernees": ["Langues"]
+        }
+      ]
+    },
+
+    {
+      "label": "Session Passage de Grade 2024-2025",
+      "etat": "ARCHIVEE",
+      "grades": [
+        {
+          "nom": "Enseignant Formateur Associé",
+          "niveau": 4,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": [
+            "Mathématiques",
+            "Génie Civil",
+            "Électromécanique",
+            "Technologies de l'information",
+            "Génie Énergétique"
+          ]
+        },
+        {
+          "nom": "Enseignant Formateur",
+          "niveau": 3,
+          "statut": "ACTIF",
+          "specialites_concernees": [
+            "Mathématiques",
+            "Génie Civil",
+            "Électromécanique",
+            "Technologies de l'information",
+            "Génie Énergétique"
+          ]
+        },
+        {
+          "nom": "Enseignant Formateur Sénior",
+          "niveau": 2,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": [
+            "Mathématiques",
+            "Génie Civil",
+            "Électromécanique",
+            "Technologies de l'information",
+            "Génie Énergétique"
+          ]
+        },
+        {
+          "nom": "Enseignant Formateur Manager",
+          "niveau": 1,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": [
+            "Mathématiques",
+            "Génie Civil",
+            "Électromécanique",
+            "Technologies de l'information",
+            "Génie Énergétique"
+          ]
+        },
+        {
+          "nom": "Enseignant de Langue, de Communication et de Citoyenneté Classe 2",
+          "niveau": 2,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": ["Langues"]
+        },
+        {
+          "nom": "Enseignant de Langue, de Communication et de Citoyenneté Classe 1",
+          "niveau": 1,
+          "statut": "IMPOSSIBLE_DE_POSTULER",
+          "specialites_concernees": ["Langues"]
+        },
+		{
+          "nom": "Enseignant de Langue, de Communication et de Citoyenneté",
+          "niveau": 3,
+          "statut": "ACTIF",
+          "specialites_concernees": ["Langues"]
+        }
+      ]
+    }
+  ]
+}

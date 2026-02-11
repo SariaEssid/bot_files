@@ -1,0 +1,130 @@
+{
+  "description_generale": "Ce document représente les résultats du passage de grade par session",
+  "facteur_cle_succes": "Seuil de validation globale satisfaisant",
+  "cause_refus_passage_de_grade": "Note globale insuffisante : la somme des différents critéres pour l'nsemble des Composantes est non atteint",
+  "results_by_sessions": [
+    {
+	  "label": "Session Passage de grade 2025-2026",
+      "etat": "EN_ATTENTE",
+	  "description_etat": "le résultat de toutes les spécialités pour la session 2025-2026 sont indisponibles pour le moment.",
+	  "nombre_total_candidats_reussis_total": "Pas Encore",
+	  "pourcentage_totale_candidats_reussis": "Pas Encore",
+	  "nombre_total_candidats_echoues": "Pas Encore",
+	  "pourcentage_totale_candidats_echoues": "Pas Encore",
+	  "chiffres_par_specialites": [
+		{
+			"tic": 
+			{
+				"label_specialite": "Technologies de l’Information et de la Communication",
+				"nombre_candidats_reussis_specialite_tic": "Pas Encore",
+				"pourcentage_candidats_reussis_specialite_tic": "Pas Encore",
+				"nombre_candidats_echoues_specialite_tic": "Pas Encore",
+				"pourcentage_candidats_echoues_specialite_tic": "Pas Encore"
+			},
+			"em" :
+			{
+				"label_specialite": "Électromécanique",
+				"nombre_candidats_reussis_specialite_em": "Pas Encore",
+				"pourcentage_candidats_reussis_specialite_em": "Pas Encore",
+				"nombre_candidats_echoues_specialite_em": "Pas Encore",
+				"pourcentage_candidats_echoues_specialite_em": "Pas Encore"
+			},
+			"math" :
+			{
+				"label_specialite": "Mathématiques",
+				"nombre_candidats_reussis_specialite_math": "Pas Encore",
+				"pourcentage_candidats_reussis_specialite_math": "Pas Encore",
+				"nombre_candidats_echoues_specialite_math": "Pas Encore",
+				"pourcentage_candidats_echoues_specialite_math": "Pas Encore"
+			},
+			"gc" :
+			{
+				"label_specialite": "Génie Civil",
+				"nombre_candidats_reussis_specialite_gc": "Pas Encore",
+				"pourcentage_candidats_reussis_specialite_gc": "Pas Encore",
+				"nombre_candidats_echoues_specialite_gc": "Pas Encore",
+				"pourcentage_candidats_echoues_specialite_gc": "Pas Encore"
+			},
+			"ged" :
+			{
+				"label_specialite": "Génie Énergétique et Développement Durable",
+				"nombre_candidats_reussis_specialite_ged": "Pas Encore",
+				"pourcentage_candidats_reussis_specialite_ged": "Pas Encore",
+				"nombre_candidats_echoues_specialite_ged": "Pas Encore",
+				"pourcentage_candidats_echoues_specialite_ged": "Pas Encore"
+			},
+			"lcc" :
+			{
+				"label_specialite": "Langue et Communication et Citoyenneté",
+				"nombre_candidats_reussis_specialite_lcc": "Pas Encore",
+				"pourcentage_candidats_reussis_specialite_lcc": "Pas Encore",
+				"nombre_candidats_echoues_specialite_lcc": "Pas Encore",
+				"pourcentage_candidats_echoues_specialite_lcc": "Pas Encore"
+			}
+		}
+	  ]
+    },
+    {
+	  "label": "Session Passage de grade 2024-2025",
+      "etat": "DISPONIBLE",
+	  "description_etat": "le résultat de toutes les spécialités pour la session 2024-2025 sont disponible.",
+	  "nombre_total_candidats_reussis_total": 27,
+	  "pourcentage_totale_candidats_reussis": 67.5,
+	  "nombre_total_candidats_echoues": 13,
+	  "pourcentage_totale_candidats_echoues": 32.5,
+	  "chiffres_par_specialites": [
+		{
+			"tic": 
+			{
+				
+				"label_specialite": "Technologies de l’Information et de la Communication",
+				"nombre_candidats_reussis_specialite_tic": 17,
+				"pourcentage_candidats_reussis_specialite_tic": 68,
+				"nombre_candidats_echoues_specialite_tic": 8,
+				"pourcentage_candidats_echoues_specialite_tic": 32
+			},
+			"em" :
+			{
+				"label_specialite": "Électromécanique",
+				"nombre_candidats_reussis_specialite_em": 2,
+				"pourcentage_candidats_reussis_specialite_em": 100,
+				"nombre_candidats_echoues_specialite_em": 0,
+				"pourcentage_candidats_echoues_specialite_em": 0
+			},
+			"math" :
+			{
+				"label_specialite": "Mathématiques",
+				"nombre_candidats_reussis_specialite_math": 5,
+				"pourcentage_candidats_reussis_specialite_math": 50,
+				"nombre_candidats_echoues_specialite_math": 5,
+				"pourcentage_candidats_echoues_specialite_math": 50
+			},
+			"gc" :
+			{
+				"label_specialite": "Génie Civil",
+				"nombre_candidats_reussis_specialite_gc": 1,
+				"pourcentage_candidats_reussis_specialite_gc": 100,
+				"nombre_candidats_echoues_specialite_gc": 0,
+				"pourcentage_candidats_echoues_specialite_gc": 0
+			},
+			"ged" :
+			{
+				"label_specialite": "Génie Énergétique et Développement Durable",
+				"nombre_candidats_reussis_specialite_ged": 2,
+				"pourcentage_candidats_reussis_specialite_ged": 100,
+				"nombre_candidats_echoues_specialite_ged": 0,
+				"pourcentage_candidats_echoues_specialite_ged": 0
+			},
+			"lcc" :
+			{
+				"label_specialite": "Langue et Communication et Citoyenneté",
+				"nombre_candidats_reussis_specialite_lcc": 0,
+				"pourcentage_candidats_reussis_specialite_lcc": 0,
+				"nombre_candidats_echoues_specialite_lcc": 0,
+				"pourcentage_candidats_echoues_specialite_lcc": 0
+			}
+		}
+	  ]
+    }
+  ]
+}
