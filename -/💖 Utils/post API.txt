@@ -1,0 +1,41 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------- actions.py
+
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+from typing import Any, Text, Dict, List
+from actions.logger import log_chat
+
+class ActionHelpDeposit(Action):
+    def name(self) -> Text:
+        return "action_help_deposit"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        user_message = tracker.latest_message.get("text")
+        sender_id = tracker.sender_id
+
+        bot_message = "To deposit your documents, log in using your school ID and upload them under 'My Documents'."
+        dispatcher.utter_message(bot_message)
+
+        log_chat(sender_id, user_message, bot_message)
+
+        return []
+
+--------------------------------------------------------------------------------------------------------------------------------------------------- logger.py
+import requests
+from datetime import datetime
+
+def log_chat(sender_id: str, user_msg: str, bot_response: str):
+    try:
+        payload = {
+            "sender": sender_id,
+            "message": user_msg,
+            "response": bot_response,
+            "timestamp": datetime.utcnow().isoformat()
+        }
+        response = requests.post("http://localhost:8080/api/chatbot/log", json=payload, timeout=5)
+        response.raise_for_status()
+    except Exception as e:
+        print(f"❌ Failed to log chat: {e}")

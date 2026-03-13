@@ -1,0 +1,21 @@
+dissertation [Français](language)
+dissertation [Francais](language)
+dissertation [fr](language)
+dissertation [Anglais](language)
+dissertation [ang](language)
+dissertation [en](language)
+dissertation [FR](language)
+dissertation [EN](language)
+
+capsule pédagogique [Français](language)
+capsule pédagogique [Francais](language)
+capsule pédagogique [fr](language)
+capsule pédagogique [Anglais](language)
+capsule pédagogique [ang](language)
+capsule pédagogique [en](language)
+capsule pédagogique [FR](language)
+capsule pédagogique [EN](language)
+
+----------------------------------------
+[azerty](sscomp)
+comCapsules Pédagogiques](sscomp)

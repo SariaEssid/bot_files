@@ -1,0 +1,782 @@
+- lookup: sscomp
+  examples: |
+    - Supports Pédagogiques
+    - Supports Pedagogiques
+    - Support Pédagogique
+    - Support Pedagogique
+    - supports Pédagogiques
+    - supp pédagogiques
+    - sup pédagogiques
+    - Supports Péda
+    - support péda
+    - Supports Peda
+    - support peda
+    - supp peda
+    - supp péda
+    - Production de Recherche, Développement et Innovation
+    - productions recherche developpement et innovation
+    - recherche développement innovation production
+    - production recherche développement et innovation
+    - production Recherche et dev et innov
+    - production R&D innovation
+    - productions de RDI
+    - production RDI
+    - production et R&D et I
+    - prod RDI
+    - prod R et Dev et Innov
+    - prod rdi
+    - productions rdi
+    - production rdi
+    - supp pédagogique
+    - Test Questionnaire à Choix Multiples
+    - Test QCM
+    - Test de Questionnaire à Choix Multiples
+    - test Questionnaire Choix Multiples
+    - test Questionnaire CM
+    - test de Questionnaire à CM
+    - QCM Test
+    - Questionnaire à Choix Multiples Test
+    - Questionnaire Choix Multiples Test
+    - test de Questionnaire Choix Multiples
+    - test Questionnaire à Choix Multiple
+    - test qcm
+    - qcm test
+    - test_qcm
+    - supp_peda
+    - prod_rdi  
+    - Présentation du Dossier
+    - Présentation de Dossier
+    - Presentation du Dossier
+    - Presentation de Dossier
+    - présentation du Dossier
+    - Présentation du dossier
+    - présentation du dossier
+    - Prés du dossier
+    - Prés de dossier
+    - Pres du dossier
+    - Pres de dossier
+    - pres du doss
+    - pres de doss
+    - pres du doss
+    - pres de Doss
+    - Discussion avec les membres du Jury
+    - Discussion avec membres du Jury
+    - Discussion avec membres Jury
+    - Discussion avec Jury
+    - Discussions avec les membres du Jury
+    - Discussions avec membres du Jury
+    - Discussions avec membres Jury
+    - Discussions avec Jury
+    - Discussions avec les membres Jury
+    - Discussion avec les membres Jury
+    - Discuss avec membr jury
+    - discss avec mbre jury
+    - Discussions avec les mbre Jury
+    - Discussions avec les mbres Jury
+    - discuss avec mbres jury
+    - Discussions membres Jury
+    - Discussions mbres du Jury
+    - Discussions mbres Jury
+    - Évaluation du Document de Présentation de Séquences d'Enseignement
+    - eval du Document de Présentation Séquences d'Enseignement
+    - Évaluation du Document de Présentation Séquences Enseignement
+    - Éval Document de Présentation Séquences Enseignement
+    - Évaluation Document Présentation Séquences Enseignement
+    - evaluation de Document de Présentation Séquences Enseignement
+    - evaluation de Document du Présentation Séquences Enseignement
+    - Éval Document Présentation Séquences Enseignement
+    - Eval Document Présentation Séquences Enseignement
+    - Évaluation Doc Présentation Séquences Enseignement
+    - Évaluation Document Prés Séquences Enseignement
+    - Évaluation Document Pres Séquences Enseignement
+    - Évaluation Document Présentation Séq Enseignement
+    - Évaluation Document Présentation Seq Enseignement
+    - Évaluation Document Présentation Séquences Ens
+    - Éval Doc Présentation Séquences Ens
+    - Eval Doc Présentation Séquences Ens
+    - éval Doc Présentation Séquences Ens
+    - eval Doc Présentation Séquences Ens
+    - Éval Doc Prés Séquences Ens
+    - Éval Doc Pres Séquences Ens
+    - Éval Doc prés Séquences Ens
+    - Éval Doc Prés Séquences Enseignement
+    - Éval Doc Prés Séq Enseignement
+    - Éval Doc Pres Sequences Ens
+    - Éval Doc Pres Sequences Enseignement
+    - Évaluation du Document de Présentation de SE
+    - Evaluation du Document de Présentation SE
+    - Évaluation Document Présentation Seq enseignement
+    - evaluation doc de presentation sequence enseignement
+    - Évaluation de la Séquence d'Enseignement
+    - Évaluation des Séquences d'Enseignement
+    - Evaluation de la Sequence d'Enseignement
+    - evaluation de la Séquence d'Enseignement
+    - évaluation de la séquence d'Enseignement
+    - évaluation de la séquence Enseignement
+    - évaluation de la séquence enseignement
+    - evaluation de la séquence enseignement
+    - évaluation de la sequence enseignement
+    - evaluation de la sequence enseignement
+    - Évaluation Séquence d'Enseignement
+    - Évaluation de la Séquence Enseignement
+    - Évaluation Séquence Enseignement
+    - Evaluation de la Sequence d'Enseignement
+    - Evaluation Séquence Enseignement
+    - Évaluation Sequence Enseignement
+    - évaluation séquence Enseignement
+    - evaluation sequence Enseignement
+    - evaluation seq Enseignement
+    - evaluation séq Enseignement
+    - evaluation sequence Ens
+    - eval séquences enseignement
+    - Évaluation des Séq d'Enseignement
+    - Évaluation des Séquences enseignement
+    - Éval des Séq d'Enseignement
+    - Éval des Seq d'Enseignement
+    - éval des Seq d'Enseignement
+    - eval des Sequences d'Enseignement
+    - eval séq ens ens
+    - eval seq ens ens
+    - Évaluation du Document de Présentation de Plateforme de Travaux Pratiques
+    - Évaluation du Document de Présentation Plateforme de Travaux Pratiques
+    - Évaluation du Document de Présentation Plateforme de Travaux Pratiques
+    - Évaluation Document de Présentation Plateforme de Travaux Pratiques
+    - Évaluation Document Présentation Plateforme de Travaux Pratiques
+    - Éval de Document de Présentation Plateforme de Travaux Pratiques
+    - Évaluation de Document du Présentation Plateforme Travaux Pratiques
+    - Éval Document Présentation Plateforme Travaux Pratiques
+    - Eval Document Présentation Plateforme Travaux Pratiques
+    - Évaluation Doc Présentation Plateforme Travaux Pratiques
+    - Évaluation Document Prés Plateforme Travaux Pratiques
+    - Évaluation Document Pres Plateforme Travaux Pratiques
+    - Évaluation Document Présentation Plateforme TP
+    - Évaluation Document Présentation Plate Travaux Pratiques
+    - Évaluation Document Présentation Plat Travaux Pratiques
+    - Éval Doc Présentation Plateforme TP
+    - Eval Doc Présentation Plateforme TP
+    - éval Doc Présentation Plateform TP
+    - eval Doc Présentation Plat TP
+    - Éval Doc Prés Platform TP
+    - Éval Doc Pres Plateforme Travaux pratiq
+    - Éval Doc prés Plateforme TP
+    - Éval Doc Prés Plateforme TP
+    - Éval Doc Prés Plateforme de Travaux Pratiques
+    - Éval Doc Pres Plateforme Travaux Pratiques
+    - Éval Doc Pres Plateforme de Travaux Pratiques
+    - Évaluation du Document de Présentation de PTP
+    - Évaluation du Document de Présentation PTP
+    - Évaluation Document Présentation Plateforme de Travaux Pratiques
+    - evaluation doc de presentation plateforme de tp
+    - Évaluation de la Plateforme de Travaux Pratiques
+    - Évaluation de Plateforme de Travaux Pratiques
+    - Evaluation de Plateforme de Trav Pratiques
+    - evaluation de la Plateforme de Travaux Pratiques
+    - évaluation de la Plateforme de Travaux Pratiques
+    - évaluation de la PTP
+    - évaluation de la SE
+    - Évaluation Plateforme Travaux Pratiques
+    - Évaluation SE
+    - Évaluation Plateforme de TP
+    - Evaluation de la PTP
+    - Evaluation Plateforme de Travaux Pratiques
+    - évaluation Plateforme Travaux Pratiques
+    - évaluation Plateform Travaux Pratiques
+    - evaluation plateforme de Travau Pratiques
+    - evaluation plat de Travaux Pratiques
+    - evaluation plat Travaux Pratiques
+    - evaluation Plateforme Travaux Pratiques
+    - eval Plateforme Travaux Pratiques
+    - Évaluations Plateforme de Travaux Pratiques
+    - Évaluation des Plateforme de TP
+    - Éval des PTP
+    - Éval des plateforme de tp
+    - Évaluation éval de Plateforme de TP
+    - Évaluation eval de plateforme de travaux pratiques
+    - eval plateform travaux pratiques
+    - eval plat tp
+    - Présentation Dossier
+    - Presentation Dossier
+    - Prés Dossier
+    - Pres Dossier
+    - Présentation Doss
+    - Presentation Dossier
+    - Prés Doss
+    - Pres Doss
+    - pres_doss
+    - diss_jury
+    - eval_pres_se
+    - eval_se
+    - eval_pres_ptp
+    - eval_ptp
+    - disscussion avec jury
+    - Évaluation du Présentation de Séquences d'Enseignement
+    - Évaluation de Présentation Séquences d'Enseignement
+    - Évaluation de Présentation Séquences Enseignement
+    - Évaluation de Présentation Séquences Enseignement
+    - Présentation Séquences Enseignement
+    - Évaluation de Présentation Séquences Enseignement
+    - Évaluation du Présentation Séquences Enseignement
+    - Éval Présentation Séquences Enseignement
+    - Eval Présentation Séquences Enseignement
+    - Présentation Séquences Enseignement
+    - Prés Séquences Enseignement
+    - Pres Séquences Enseignement
+    - Présentation Séq Enseignement
+    - Présentation Seq Enseignement
+    - Présentation Séquences Ens
+    - Éval Présentation Séquences Ens
+    - Eval Présentation Séquences Ens
+    - éval Présentation Séquences Ens
+    - eval Présentation Séquences Ens
+    - Éval Prés Séquences Ens
+    - Éval Pres Séquences Ens
+    - Éval prés Séquences Ens
+    - Éval Prés Séquences Enseignement
+    - Éval Prés Séq Enseignement
+    - Éval Pres Sequences Ens
+    - Éval Pres Sequences Enseignement
+    - Évaluation de Présentation de SE
+    - Évaluation de Présentation SE
+    - Présentation Seq enseignement
+    - evaluation de presentation sequence enseignement
+    - Évaluation de Présentation Plateforme de Travaux Pratiques
+    - Éval de la Présentation Plateforme de Travaux Pratiques
+    - Évaluation de Présentation Plateforme de Travaux Pratiques
+    - evaluation Présentation Plateforme de Travaux Pratiques
+    - Évaluation de Présentation Plateforme de Travaux Pratiques
+    - Évaluation du Présentation Plateforme Travaux Pratiques
+    - Éval Présentation Plateforme Travaux Pratiques
+    - evaluation Présentation Plateforme Travaux Pratiques
+    - eval Prés Plateforme Travaux Pratiques
+    - éval Pres Plateforme Travaux Pratiques
+    - evaluation Présentation Plateforme TP
+    - evaluation Présentation Plate Travaux Pratiques
+    - Éval Présentation Plat Travaux Pratiques
+    - Éval Présentation Plateforme TP
+    - Eval Présentation Plateforme TP
+    - éval Présentation Plateform TP
+    - eval Présentation Plat TP
+    - Éval Prés Platform TP
+    - Éval Pres Plateforme Travaux pratiq
+    - Éval prés Plateforme TP
+    - Éval Prés Plateforme TP
+    - Éval Prés Plateforme de Travaux Pratiques
+    - Éval Pres Plateforme Travaux Pratiques
+    - Éval Pres Plateforme de Travaux Pratiques
+    - Évaluation de Présentation PTP
+    - evaluation Présentation Plateforme de Travaux Pratiques
+    - evaluation de presentation plateforme de tp
+    - Évaluation de Présentation de Plateforme de Travaux Pratiques
+    - Eval Présentation Plateforme Travaux Pratiques
+    - Éval Présentation de PTP
+    - éval pres se
+    - Éval Prés SE
+    - eval pres SE
+    - Eval prés SE
+    - éval doc pres se
+    - Éval doc Prés SE
+    - eval doc pres SE
+    - Eval doc prés SE
+    - éval pres ptp
+    - Éval Prés PTP
+    - eval pres PTP
+    - Eval prés PTP
+    - éval doc pres ptp
+    - Éval doc Prés PTP
+    - eval doc pres PTP
+    - Eval doc prés PTP
+    - Capsules Pédagogiques
+    - Capsules Pedagogiques
+    - Capsule Pédagogique
+    - capsules pédagogiques
+    - Capsule Pédagogique
+    - Capsules Pédagogiques
+    - capsules pedagogiques
+    - Capsule Pedagogique
+    - Caps Pédagogiques
+    - Caps Pedagogiques
+    - caps pédagogiques
+    - Caps Pédagogique
+    - caps pedagogiques
+    - Capsules Péda
+    - Capsules Peda
+    - Capsules péda
+    - Capsules peda
+    - Capsule Péda
+    - Capsule Peda
+    - Capsule péda
+    - Capsule peda
+    - Dissertations
+    - Dissertation
+    - dissertations
+    - dissertation
+    - Diss
+    - diss
+    - Dissertations Globales
+    - Dissertation Globales
+    - dissertations globales
+    - dissertation globale
+    - Diss globale
+    - diss globale
+    - Dissertations Glob
+    - Dissertation Glob
+    - dissertations glob
+    - dissertation glob
+    - Diss glob
+    - diss glob
+    - Capsules Pédagogiques Globale
+    - Capsules Pedagogiques Globale
+    - Capsule Pédagogique Globale
+    - capsules pédagogiques Globale
+    - Capsule Pédagogique Globale
+    - Capsules Pédagogiques Globale
+    - capsules pedagogiques Globale
+    - Capsule Pedagogique Globale
+    - Caps Pédagogiques Globale
+    - Caps Pedagogiques Globale
+    - caps pédagogiques Globale
+    - Caps Pédagogique Globale
+    - caps pedagogiques Globale
+    - Capsules Péda Globale
+    - Capsules Peda Globale
+    - Capsules péda Globale
+    - Capsules peda Globale
+    - Capsule Péda Globale
+    - Capsule Peda Globale
+    - Capsule péda Globale
+    - Capsule peda Globale
+    - Capsules Pédagogiques Glob
+    - Capsules Pedagogiques Glob
+    - Capsule Pédagogique Glob
+    - capsules pédagogiques glob
+    - Capsule Pédagogique Glob
+    - Capsules Pédagogiques Glob
+    - capsules pedagogiques glob
+    - Capsule Pedagogique Glob
+    - Caps Pédagogiques Glob
+    - Caps Pedagogiques glob
+    - caps pédagogiques Global
+    - Caps Pédagogique glob
+    - caps pedagogiques glob
+    - Capsules Péda Glob
+    - Capsules Peda Glob
+    - Capsules péda glob
+    - Capsules peda glob
+    - Capsule Péda Global
+    - Capsule Peda Glob
+    - Capsule péda glob
+    - Capsule peda glob
+    - Capsules Pédagogiques Totales
+    - Capsules Pedagogiques Totale
+    - Capsule Pédagogique Totales
+    - capsules pédagogiques Totale
+    - Capsule Pédagogique Totales
+    - Capsules Pédagogiques Totales
+    - capsules pedagogiques Totales
+    - Capsule Pedagogique Totales
+    - Caps Pédagogiques Totales
+    - Caps Pedagogiques Totale
+    - caps pédagogiques Totale
+    - Caps Pédagogique Totales
+    - caps pedagogiques Totales
+    - Capsules Péda Totales
+    - Capsules Peda Totales
+    - Capsules péda Totale
+    - Capsules peda Totales
+    - Capsule Péda Totale
+    - Capsule Peda Totales
+    - Capsule péda Totale
+    - Capsule peda Totales
+    - Dissertations Totales
+    - Dissertation Totales
+    - dissertations Totales
+    - dissertation Totales
+    - Diss Totales
+    - diss Totales
+    - Dissertations Totale
+    - Dissertation Totale
+    - dissertations Totale
+    - dissertation Totale
+    - Diss Totale
+    - diss Totale
+    - Séquences Enseignement total
+    - Sequences Enseignement total
+    - Séquences Ens total
+    - Séquences d'Ens total
+    - Séquences d'Enseignement total
+    - Séq Ens total
+    - Seq Ens total
+    - séq enseignement total
+    - seq ens total
+    - seq enseignement total
+    - Sequences Enseignement Globale
+    - Séquences Enseignement Globale
+    - Séquences Ens Globale
+    - Séquences d'Ens Globale
+    - Séquences d'Enseignement Globale
+    - Séq Ens Globale
+    - Seq Ens Globale
+    - Seq ens Globale
+    - Seq enseignement Globale
+    - séq enseignement Globale
+    - seq ens Globale
+    - seq Enseignement Globale
+    - Séquences Enseignement Glob
+    - Séquences Enseignement glob
+    - Sequences Enseignement Glob
+    - Séquences Enseignement Global
+    - Séquences Ens Glob
+    - Séquences d'Ens Glob
+    - Séquences d'Enseignement Glob
+    - Séq Ens Glob
+    - Seq Ens Glob
+    - seq enseignement Glob
+    - séq enseignement Glob
+    - seq Enseignement Glob
+    - seq ens Glob
+    - Seq enseignement Glob
+    - Séquences d'Enseignement Totale
+    - Séquences Enseignement Totale
+    - Sequences Enseignement Totale
+    - Séquences Ens Totale
+    - Séquences d'Ens Totale
+    - Séq Ens Totale
+    - Seq Ens Totale
+    - seq enseignement Totale
+    - séq enseignement Totale
+    - seq ens Totale
+    - SE total
+    - se Total
+    - se totale
+    - se total
+    - SE Globale
+    - SE Global
+    - SE GLOBALE
+    - SE globale
+    - SE Globale
+    - se Globale
+    - se Global
+    - se globale
+    - SE Totale
+    - SE Totale
+    - SE TOTALE
+    - se Totale
+    - se TOTALE
+    - PTP global
+    - Platforme de TP total
+    - PTP total
+    - ptp total
+    - PTP GLOBALE
+    - PTP Globale
+    - Plateform TP Globale
+    - PTP Totale
+    - Plateforme TP TOTALE
+    - ptp TOTALE
+    - Plateforme de Travaux Pratiques total
+    - Plateforme de Travaux Pratiques global
+    - Plateforme de Travaux Pratiques totale
+    - Plateforme Travaux Pratiques global
+    - Plateforme Travaux Pratiques total
+    - Plateforme de TP globals
+    - Plateforme de Travaux Pratique total
+    - Plateforme TP total
+    - Plateforme de TP total
+    - Plat de TP total
+    - plateforme TP total
+    - Plat TP total
+    - Plateform TP total
+    - Plateforme de TPs total
+    - platform de TP total
+    - plat tp total
+    - plateform de tp total
+    - Plat TP Globale
+    - Plateforme de TP Globale
+    - Platforme de TP Globale
+    - ptp totale
+    - Plateform TP totale
+    - ptp Globale
+    - Plateforme TP Globale
+    - Plateforme de Travaux Pratiques Globale
+    - Plateforme de Travaux Pratiques Totale
+    - Plateforme Travaux Pratiques Globale
+    - Plateforme de Travaux Pratique Totale
+    - Plateforme Travaux Pratiques Totale
+    - Plateforme de TP Totale
+    - Plateforme TP Totale
+    - Plat de TP Totale
+    - Plateforme de TPs Globale
+    - platform de TP Globale
+    - plat tp Globale
+    - plateform de tp Globale
+    - Productions Pédagogiques
+    - Production Pédagogique
+    - Productions Pédagogique
+    - Production Pédagogiques
+    - Production Péda
+    - Production Peda
+    - Prod Pédagogique
+    - Prod Pedagogique
+    - Productions Péda
+    - production Pédagogique
+    - prod péda
+    - prod peda
+    - prod_peda_all
+    - caps_peda_all
+    - diss_all
+    - seq_ens_all
+    - plat_tp_all
+    - prod peda Globale
+    - prod péda Globale
+    - Prod Pedagogique Globale
+    - Prod Pédagogique Global
+    - Production Peda Globale
+    - Production Péda Globale
+    - production Pédagogique Globale
+    - Production Pédagogique Globale
+    - Production Pédagogiques Globale
+    - Productions Péda Globale
+    - Productions Pédagogique Global
+    - Productions Pédagogiques Globale
+    - prod peda totale
+    - prod péda TOTALE
+    - Prod Pedagogique totale
+    - Prod Pédagogique total
+    - Production Peda totale
+    - Production Péda totale
+    - production Pédagogique TOTALE
+    - Production Pédagogique totale
+    - Production Pédagogiques total
+    - Productions Péda totale
+    - Productions Pédagogique TOTAL
+    - Productions Pédagogiques totale
+    - Entretien avec le Jury
+    - Entretien Jury
+    - Entretien avec les Jury
+    - Entret avec le Jury
+    - Entretien avec le Jury Global
+    - Entretien Jury Global
+    - Entretien avec les Jury Global
+    - Entret avec le Jury Global
+    - Entretien avec le Jury Total
+    - Entretien Jury Total
+    - Entretien avec les Jury TOTAL
+    - Entret avec le Jury totale
+    - entretien avec jury
+    - entretien avec jury total
+    - entretien avec jury global
+    - entr_jury_all
+    - QCM
+    - Questionnaires à Choix Mutliples
+    - Questionnaires à CM
+    - Questionnaire à Choix Mutliples
+    - Questionnaires Choix Mutliples
+    - Questionnaires CM
+    - questionnaires à choix mutliples
+    - Questionnaires a Choix Mutliples
+    - qcm_all
+    - Questionnaires a CM
+    - questionnaires a choix mutliples
+    - QCM Globale
+    - Questionnaires à Choix Mutliples Globale
+    - Questionnaires à CM GLOBALE
+    - Questionnaire à Choix Mutliples GLOBALE
+    - Questionnaires Choix Mutliples globale
+    - Questionnaires CM Globale
+    - questionnaires à choix mutliples Globale
+    - Questionnaires a Choix Mutliples global
+    - Questionnaires a CM globale
+    - questionnaires a choix mutliples globale
+    - QCM Totale
+    - Questionnaires à Choix Mutliples Totale
+    - Questionnaires à CM TOTALE
+    - Questionnaire à Choix Mutliples Totale
+    - Questionnaires Choix Mutliples totale
+    - Questionnaires CM Totale
+    - questionnaires à choix mutliples Totale
+    - Questionnaires a Choix Mutliples TOTALE
+    - Questionnaires a CM totale
+    - questionnaires a choix mutliples TOTALE
+    - Evaluation de la Plateforme de Travaux Pratiques
+    - Éval Doc prés Plateforme TP
+    - Éval Doc Pres Plateforme Travaux pratiques
+    - Évaluation de Séquences Ens
+    - Evaluation Séquences Enseignement
+    - Évaluation de la Séquences Enseignement
+    - eval Séquences Enseignement
+    - Séquences Enseignement
+    - Séquence Enseignement
+    - Séquence Enseignements
+    - se
+    - sE
+    - Plateforme de TP
+    - Plateforme de Travaux Pratiques
+    - Plateforme Travaux Pratiques
+    - Plat de TP
+    - plat tp
+    - Plat TP
+    - plateform de tp
+    - Plateform TP
+    - Plateforme des TP
+    - Plateforme de TPs
+    - Plateforme de Travaux Pratique
+    - Plateforme de Travaux Pratiques
+    - plateforme TP
+    - Plateforme TP
+    - plateforme Travaux Pratiques
+    - platform de TP
+    - Platforme de TP
+    - ptP
+    - PTP
+    - ptp
+    - SE
+    - seq ens
+    - Seq Ens
+    - Séq Ens
+    - seq enseignement
+    - séq enseignement
+    - Séquences d'Ens
+    - Séquences d'Enseignement
+    - Séquences Ens
+    - Sequences Enseignement
+    - Séquences Enseignements
+    - entretient avec jury
+    - evaluation doc présentation se
+    - caps
+    - capsules
+    - CAPSULES
+    - Capsules
+    - capsule
+    - Capsule
+    - Connaissances de Bases
+    - Connaissance de Bases
+    - Connaissances de Base
+    - Connaissance de Base
+    - Connaissances Bases
+    - Connaissance Bases
+    - Connaissances Base
+    - Connaissance Base
+    - Production
+    - production
+    - prod
+    - Prod
+    - productions
+    - Productions
+    - Dossiers & Entretiens
+    - Dossier & Entretien
+    - Dossiers & Entretien
+    - Dossier & Entretiens
+    - Doss & Entr
+    - Dossier & Entr
+    - Doss & Entretiens
+    - doss & Entretiens
+    - dossiers & entretiens
+    - dossiers & Entretien
+    - Dossier & entretien
+    - Dossiers + Entretiens
+    - dossiers + entretiens
+    - Dossier + Entretien
+    - Dossier + entretien
+    - Dossiers + Entretien
+    - dossiers + Entretien
+    - Dossier + Entretiens
+    - Doss + Entr
+    - Dossier + Entr
+    - Doss + Entretiens
+    - doss + Entretiens
+    - Dossiers et Entretiens
+    - dossiers et entretiens
+    - Dossier et Entretien
+    - Dossier et entretien
+    - Dossiers et Entretien
+    - dossiers et Entretien
+    - Dossier et Entretiens
+    - Doss et Entr
+    - Dossier et Entr
+    - Doss et Entretiens
+    - doss et Entretiens
+    - Doss avec Entr
+    - Doss avec Entretiens
+    - doss avec Entretiens
+    - Dossier avec Entr
+    - Dossier avec Entretien
+    - Dossier avec entretien
+    - Dossier avec Entretiens
+    - Dossiers avec Entretien
+    - dossiers avec Entretien
+    - Dossiers avec Entretiens
+    - dossiers avec entretiens
+    - Composante 1
+    - Comp 1
+    - composante 1
+    - comp 1
+    - Première Composante
+    - première composante
+    - Première composante
+    - première Composante
+    - Première Composante
+    - Première Comp
+    - première comp
+    - Première comp
+    - première Comp
+    - Première Comp
+    - Premiere Composante
+    - premiere composante
+    - Premiere composante
+    - premiere Composante
+    - Premiere Composante
+    - Premiere Comp
+    - premiere comp
+    - Premiere comp
+    - premiere Comp
+    - Premiere Comp
+    - Composante 2
+    - composante 2
+    - Comp 2
+    - comp 2
+    - Deuxième Composante
+    - deuxième composante
+    - Deuxième composante
+    - deuxième Composante
+    - Deuxième Comp
+    - deuxième comp
+    - Deuxième comp
+    - deuxième Comp
+    - Deuxieme Composante
+    - deuxieme composante
+    - Deuxieme composante
+    - deuxieme Composante
+    - Deuxieme Comp
+    - deuxieme comp
+    - Deuxieme comp
+    - deuxieme Comp
+    - Composante 3
+    - composante 3
+    - Comp 3
+    - comp 3
+    - Troisième Composante
+    - troisième composante
+    - Troisième composante
+    - troisième Composante
+    - Troisième Comp
+    - troisième comp
+    - Troisième comp
+    - troisième Comp
+    - Troisieme Composante
+    - troisieme composante
+    - Troisieme composante
+    - troisieme Composante
+    - Troisieme Comp
+    - troisieme comp
+    - Troisieme comp
+    - troisieme Comp
+    - third_comp
+    - second_comp
+    - first_comp
+    - production pedagogique
+    - doss et entr
+    - dossiers
+    - Dossiers
+    - dossier
+    - Dossier
+    - doss
+    - Doss

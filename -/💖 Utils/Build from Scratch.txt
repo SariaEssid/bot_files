@@ -1,0 +1,29 @@
+❤️ --------------------------------------------------------------------------- Create Project
+
+BEFORE : 
+1. git pull https://github.com/SariaEssid/mybot-py.git
+2. pip install -r resuirements.txt
+// create project folder
+// go to rasa_env with activated status
+** (rasa_env) C:\Users\ESSID-SARIA>cd C:\Users\ESSID-SARIA\Desktop\my_bot
+** (rasa_env) C:\Users\ESSID-SARIA\Desktop\my_bot>rasa init
+- cd C:\Users\ESSID-SARIA\Desktop\my_bot
+- go to folder > rasa init
+
+❤️ --------------------------------------------------------------------------- Rasa Activate
+PS C:\Users\Esprit> Set-ExecutionPolicy RemoteSigned -Scope Process
+.\rasa_env\Scripts\activate // NEW PROJECT
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
+- rasa train
+- rasa run --enable-api --cors "*" --debug
+  rasa run -m models --enable-api --cors "*" --debug -p 5005
+  rasa run -m models --enable-api --cors "*" --debug -p 5005 --connector socketio
+- rasa run actions
+- python -m http.server 8000
+
+1. GET http://localhost:2333/api/chatbot/export-nlu -> ✅ nlu.yml file is generated successfully.
+   on CMD : uvicorn train_api:app --host 0.0.0.0 --port 8000 --reload -> INFO:     Application startup complete.
+2. POST GET http://localhost:2333/api/chatbot/train -> {"message":"Training started...","triggered_by":"admin"}
+3. POST GET http://localhost:2333/api/chatbot/export-faqs -> ✅ faqs.json file is generated successfully.
+   on CMD : python scripts/build_faiss_index.py

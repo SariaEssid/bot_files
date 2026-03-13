@@ -1,0 +1,56 @@
+se Global
+se globale
+se total
+se totale
+seq ens
+Séq Ens
+seq ens Glob
+Séq Ens Glob
+seq ens Globale
+Séq Ens Globale
+seq ens total
+Séq Ens total
+seq ens Totale
+Séq Ens Totale
+seq enseignement
+séq enseignement
+seq enseignement Glob
+séq enseignement Glob
+Seq enseignement Globale
+séq enseignement Globale
+seq enseignement total
+séq enseignement total
+seq enseignement Totale
+séq enseignement Totale
+seq_ens_all
+Sequence d'Enseignement
+Sequence Enseignement
+Séquence Enseignement
+Séquence Enseignements
+Séquences d'Ens
+Séquences d'Ens Glob
+Séquences d'Ens Globale
+Séquences d'Ens total
+Séquences d'Ens Totale
+Séquences d'Enseignement
+Séquences d'Enseignement Glob
+Séquences d'Enseignement Globale
+Séquences d'Enseignement total
+Séquences d'Enseignement Totale
+Séquences Ens
+Séquences Ens Glob
+Séquences Ens Globale
+Séquences Ens total
+Séquences Ens Totale
+Sequences Enseignement
+Séquences Enseignement
+Sequences Enseignement Glob
+Séquences Enseignement glob
+Séquences Enseignement Global
+Sequences Enseignement Globale
+Séquences Enseignement Globale
+Sequences Enseignement total
+Séquences Enseignement total
+Sequences Enseignement Totale
+Séquences Enseignement Totale
+Séquences Enseignements

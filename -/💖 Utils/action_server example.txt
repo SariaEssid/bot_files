@@ -1,0 +1,93 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------- actions.py
+……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… Direct
+from typing import Any, Text, Dict, List
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+
+class ActionHelpDeposit(Action):
+
+    def name(self) -> Text:
+        return "action_help_deposit"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        dispatcher.utter_message(text="To deposit your documents, log in using your school ID and upload them under 'My Documents'.")
+
+        return []
+		
+……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… API
+import requests
+from typing import Any, Text, Dict, List
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
+
+class ActionCheckDepositStatus(Action):
+
+    def name(self) -> Text:
+        return "action_check_deposit_status"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        # 🚧 Replace with actual logic to get studentId (slot, entity, user info...)
+        student_id = "12345"
+
+        try:
+            response = requests.get(f"http://localhost:8080/api/deposit/status?studentId={student_id}", timeout=5)
+            data = response.json()
+
+            if response.status_code == 200:
+                dispatcher.utter_message(text=f"📌 {data.get('message')}")
+            else:
+                dispatcher.utter_message(text="❌ Couldn't fetch your deposit status. Please try again later.")
+        except Exception as e:
+            print(f"Error: {e}")
+            dispatcher.utter_message(text="⚠️ Something went wrong while checking your deposit status.")
+
+        return []
+
+……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………… API Requests
+class ActionSaveHistory(Action):
+
+       def name(self) -> Text:
+           return "action_help_deposit"  💡
+
+       def log_chat(user_msg, bot_msg, intent, conf, session_id):
+           payload = {
+               "session_id": session_id,
+               "user_input": user_msg,
+               "bot_reply": bot_msg,
+               "intent": intent,
+               "confidence": conf,
+           }
+           try:
+               requests.post("http://localhost:2333/api/chatbot/chat/history", json=payload, timeout=5)
+           except Exception as e:
+               print(f"[LOGGING ERROR] {e}")
+
+--------------------------------------------------------------------------------------------------------------------------------------------------- domain.yml
+intents:
+  - help_deposit 🔍
+
+actions:
+  - action_help_deposit 💡
+	
+--------------------------------------------------------------------------------------------------------------------------------------------------- nlu.yml
+- intent: help_deposit 🔍
+  examples: |
+    - I can't deposit my documents
+    - How do I deposit files?
+    - Where can I upload?
+    - I want to deposit
+    - deposit
+    - upload document
+    - I can't find the deposit section
+	
+---------------------------------------------------------------------------------------------------------------------------------------------------  rules.yml
+- rule: Respond to deposit question
+  steps:
+    - intent: help_deposit 🔍
+    - action: action_help_deposit 💡

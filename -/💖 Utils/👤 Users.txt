@@ -1,0 +1,49 @@
+👤
+---------------------------------------------------------------------------------- TIC	
+👍 🚫 username=P-241-22 ; password=ESPRIT2023		149 | 1*-2*	
+👍 🎉 username=P-148-23 ; password=ESPRIT2023		147
+👍 🚫 username=V-131-22 ; password=ESPRIT2023		129 | 1'
+👍 🚫 username=P-365-23 ; password=ESPRIT2023		134 | 1*-2..
+---------------------------------------------------------------------------------- Math
+👍 🎉 username=P-1050-21 ; password=ESPRIT2023		158
+👍 🚫 username=V-151-18 ; password=ESPRIT2023		13 |1'-2..
+---------------------------------------------------------------------------------- L&C
+👍 🚫 username=P-900-21 ; password=ESPRIT2023		24
+	🚫 username=V-1159-15 ; password=ESPRIT2023		164
+---------------------------------------------------------------------------------- GED
+	🚫 username=V-182-22 ; password=ESPRIT2023		166
+	🚫 username=P-122-114 ; password=ESPRIT2023		167
+---------------------------------------------------------------------------------- EM
+	🎉 username=V-1376-16 ; password=ESPRIT2023		162
+	🚫 username=P-1042-14 ; password=ESPRIT2023		163
+
+
+
+
+
+note test qcm
+note qcm
+note dissertation fr
+note dissertation en
+note dissertations
+note composante 1 
+
+note capsule fr
+note capsule en
+note Capsule Péda Global
+note evaluation séquence enseignement / note evaluation ptp
+note évaluation presentation séquence enseignement / note évaluation du document de présentation ptp
+note sequence enseignement / note plateforme de tp
+note supports peda
+note production péda
+note production rdi
+note production
+
+note présentation dossier
+note discussion avec jury
+note entretient avec jury
+note dossier
+note troisieme composante
+
+
+

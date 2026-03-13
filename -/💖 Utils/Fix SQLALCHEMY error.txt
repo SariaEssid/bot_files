@@ -1,0 +1,4 @@
+// In activated env :
+$env:SQLALCHEMY_SILENCE_UBER_WARNING="1"
+$env:SQLALCHEMY_WARN_20="0"
+rasa run --enable-api --cors "*" --debug

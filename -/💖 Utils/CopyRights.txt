@@ -1,0 +1,11 @@
+#
+# Copyright (c) $today.year. ESPRIT / ESSID Saria. All rights reserved.
+#
+
+<!--
+Copyright (c) $today.year. ESPRIT / ESSID Saria. All rights reserved.
+-->
+
+
+git config --global --add safe.directory C:/Users/ESSID-SARIA/Desktop/mybot-fe
+git config --global --add safe.directory '*'

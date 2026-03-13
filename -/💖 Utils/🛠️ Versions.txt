@@ -1,0 +1,10 @@
+🛠️ node --version : v18.12.1
+🛠️ npm -version : 8.19.2
+
+
+Rasa Version      :         3.6.1
+Minimum Compatible Version: 3.5.0
+Rasa SDK Version  :         3.6.2
+Python Version    :         3.9.13
+Operating System  :         Windows-10-10.0.22631-SP0
+Python Path       :         C:\Users\ESSID-SARIA\rasa_env\Scripts\python.exe

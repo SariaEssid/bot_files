@@ -1,0 +1,32 @@
+💀
+implement feedback buttons: 👍 / 👎 to confirm if answer was helpful
+Assist with feedback collection from users to improve answers
+
+Step 1: Export your feedback logs to a CSV
+Step 2: Train a binary classifier with Python
+2.1 - Train a model for bad FAQ detection
+2.2 - Remove or rephrase weak answers
+2.3 - Improve examples for misclassified intents
+2.4 - Improving the model (transformers, BERT)
+2.5 - Exporting “bad” examples to YAML for retraining NLU?
+
+Step 3 :
+3.1 - Extending the model with deep learning?
+3.2 - Integrating model into Spring Boot for auto-flagging bad FAQs?
+3.3 - Visualizing performance with a dashboard?
+
+Step 4 : Use the model in a Flask or Spring Boot app
+4.1 - You can load this model to:
+4.2 - Automatically flag bad answers
+4.3 - Suggest which answers need rephrasing
+4.4 - Identify misclassified or fuzzy intents
+
+Step 5 : (Optional) Visual Dashboard
+5.1 - You can export a cleaned JSON or metrics and visualize it using:
+5.2 - Streamlit (Python)
+5.3 - Spring Boot + React
+5.4 - Jupyter Notebook
+
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+Or normalize text (e.g., lowercase and remove punctuation) in the custom component or via RegexFeaturizer options.

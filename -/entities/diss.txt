@@ -1,0 +1,17 @@
+diss
+diss glob
+diss globale
+diss Totale
+diss Totales
+diss_all
+dissertation
+dissertation glob
+dissertation globale
+Dissertation Globales
+dissertation Totale
+dissertation Totales
+dissertations
+dissertations glob
+dissertations globales
+dissertations Totale
+dissertations Totales

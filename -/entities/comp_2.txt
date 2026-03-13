@@ -1,0 +1,10 @@
+comp 2
+composante 2
+deuxieme comp
+deuxième comp
+deuxieme composante
+deuxième composante
+prod
+production
+productions
+second_comp

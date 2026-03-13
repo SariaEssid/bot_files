@@ -1,0 +1,56 @@
+👉 ************************************************************************************* Point to RASA_ENV
+cd C:\Users\Esprit
+.\rasa_env\Scripts\activate
+cd C:\Users\Esprit\Desktop\ai-bot\chatbot_RASA
+cls
+
+🧹 ************************************************************************************* Clear cache
+cls
+rasa clean --force
+Remove-Item -Force models\*
+Remove-Item -Recurse -Force __pycache__, .rasa -ErrorAction SilentlyContinue
+
+📍 ************************************************************************************* Planning
+rasa train --force
+rasa run --enable-api --cors "*" --debug
+python -m actions.endpoints --dev
+rasa shell --debug
+
+
+🔍 ************************************************************************************* Monitoring
+uvicorn train_api:app --host 0.0.0.0 --port 8000 --reload // run python train_api.py
+python scripts/build_faiss_index.py // run build_faiss_index.py
+FINISH, my DEARLING BOT let me know your precious feedback
+🕗 ************************************************************************************* Date
+👍 🚫 username=P-241-22 ; password=ESPRIT2023
+username=P-148-23 ; password=ESPRIT2023
+
+2025-07-14 11:15:00.000
+username=S-1430-16 ; password=ESPRIT2023
+username=V-840-13 ; password=ESPRIT2023
+username=S-1664-17 ; password=ESPRIT2023
+username=V-876-21 ; password=ESPRIT2023
+username=P-122-105 ; password=ESPRIT2023
+username=V-63-17 ; password=ESPRIT2023
+
+
+username=P-900-21 ; password=ESPRIT2023
+username=P-122-91 ; password=ESPRIT2023
+
+username=P-506-12 ; password=ESPRIT2023 : Ashraf DAMERGI
+username=P-01-03 ; password=ESPRIT2023 : Lamjed BETTAIEB
+username=V-248-18 ; password=ESPRIT2023 : Belhassen GUETTAT
+username=V-351-11 ; password=ESPRIT2023 : Manel MEDHIOUB
+
+huggingface-cli download TheBloke/Mistral-7B-Instruct-v0.2-GGUF mistral-7b-instruct-v0.2.Q4_K_M.gguf --local-dir . --local-dir-use-symlinks False
+huggingface-cli download TheBloke/Phi-3-Mini-4K-Instruct-GGUF phi-3-mini-4k-instruct-q4_k_m.gguf --local-dir . --local-dir-use-symlinks False
+huggingface-cli download TheBloke/phi-3-mini-4k-instruct-q4_k_m.gguf --local-dir . --local-dir-use-symlinks False
+uvicorn actions.tree_composantes.mistral_server:app --host 127.0.0.1 --port 8000 --reload
+
+🔴 ************************************************************************************* PIP
+pip freeze > requirements.txt
+pip install -r requirements.txt
+
+Hello Dearling Expert, I will send you my code for ai bot : just actions.py and helpers, couls you please tell me your feedbackk as pro and best practices
+
+i will send you many files in multiple times, please dont answer until i write this sentence 'FINISH, my DEARLING BOT let me know your precious feedback'; are you ready
