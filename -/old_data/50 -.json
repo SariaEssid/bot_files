@@ -1,0 +1,55 @@
+{
+"select question, answer from \"BOT_FAQ\" bf where id_intent = 65": [
+	{
+		"question" : "Moodle",
+		"answer" : "Super 😊\r\nLa seule épreuve effectuée via Moodle est **Test QCM**.\r\n1️⃣ Pour **Enseignant Formateur** : Le QCM porte sur un ensemble de connaissances scientifiques et techniques de base en lien direct avec le métier d’ingénieur.\r\n2️⃣ Pour **Enseignant Langues** : Le QCM porte sur un ensemble de connaissances générales culturelles et citoyennes."
+	},
+	{
+		"question" : "Quels membres seront présents pendant l’entretien ? 👩‍⚖️👨‍⚖️",
+		"answer" : "Excellent 🌟 !\r\nLe processus Entretien avec Jury inclut :\r\nLa présentation de votre dossier 🎬\r\nLe dialogue avec les membres du Jury 💬\r\n⚠️ Rappel : aucune personne externe n’est autorisée lors de cet examen."
+	},
+	{
+		"question" : "examen encadré",
+		"answer" : "Les épreuves encadrées en temps réel sont les Dissertations en Français et Anglais 📝.\r\nIl s’agit d’examens écrits réalisés via la plateforme sous supervision 👀."
+	},
+	{
+		"question" : "épreuve sous controle",
+		"answer" : "Les Dissertations Français et Anglais sont des épreuves en temps réel ✏️\nElles se déroulent en ligne sur la plateforme, sous contrôle et supervision pour garantir l’examen 👀📄."
+	},
+	{
+		"question" : "épreuve supervisée",
+		"answer" : "Très bien !\r\nPour les épreuves encadrées, vous passerez les Dissertations FR et EN ✍️\r\nCe sont des examens écrits en ligne, surveillés directement par la plateforme 🖥️👓."
+	},
+	{
+		"question" : "Que faut-il remettre pour les composantes 2 et 3 ?",
+		"answer" : "Très bonne question 🙌 ! Pour les composantes 2 et 3, vous devez déposer vos livrables au format vidéo 🎬 ou PDF 📄 via la plateforme.\r\n💡 Ces documents représentent vos productions pédagogiques et activités évaluées.\r\n⚠️ N’oubliez pas que la taille maximale est de 1 Go par fichier."
+	},
+	{
+		"question" : "Qui sera présent lors de l'entretien ?",
+		"answer" : "Super 😊 !\r\nL’entretien avec le Jury se déroule en 2 étapes :\r\nPrésentation détaillée de votre dossier 📄\r\nÉchange et discussion avec les membres du Jury 👩‍⚖️👨‍⚖️\r\n⚠️ Aucun accompagnant ou tiers n’est autorisé pendant l’examen."
+	},
+	{
+		"question" : "Y a-t-il une épreuve orale ou un entretien",
+		"answer" : "Excellente question 👏 ! Voici un aperçu clair du format autorisés des livrables 📚\r\n🎯 **Composante 1** :\r\nQCM → via Moodle 🧠\r\nDissertations FR & EN → test écrit sur la plateforme ✍️\r\n📦 **Composantes 2 et 3** :\r\nLes documents à soumettre via la plateforme peuvent être au format vidéo 🎬 ou PDF 📄,\r\navec une limite de 1 Go par fichier maximum ⚠️.\r\n🗣 Deuxième Sous Composante de la **Composante 3** (Entretien avec Jury) → examen oral : présentation du dossier suivie d’une discussion avec les membres du Jury."
+	},
+	{
+		"question" : "Qui sera présent durant l'entretien ?",
+		"answer" : "Super 😊 !\r\nL’entretien avec le Jury se déroule en 2 étapes :\r\nPrésentation détaillée de votre dossier 📄\r\nÉchange et discussion avec les membres du Jury 👩‍⚖️👨‍⚖️\r\n⚠️ Aucun accompagnant ou tiers n’est autorisé pendant l’examen."
+	},
+	{
+		"question" : "Qui participera à l’entretien ? 🤔",
+		"answer" : "Parfait 👏 !\r\nL’entretien se compose de 2 parties principales :\r\n1️⃣ Présentation de votre dossier 🗂️\r\n2️⃣ Discussion avec le Jury 🤝\r\n❌ Aucune autre personne ne peut assister à cette évaluation."
+	},
+	{
+		"question" : "Où et comment déposer les livrables ?",
+		"answer" : "Trés bonne remarque 🙌 !\r\nVoici comment le dépôt se fait 🎓\r\n📘 **Composante 1** (Connaissances de Bases) :\r\n🧠 Test QCM → à passer sur Moodle\r\n✍️ Dissertations FR & EN → examen écrit via la plateforme\r\n📂 **Composantes 2** (Production) et **Composante 3** (Dossier) :\r\n➡️ Vous devez déposer des livrables sous forme de vidéos 🎬 ou de fichiers PDF 📄 via la plateforme.\r\n🗣 Deuxième Sous Composante de la **Composante 3** (Entretien avec Jury) → examen oral : présentation devant jury"
+	},
+	{
+		"question" : "Devons-nous préparer une présentation",
+		"answer" : "Excellente question 👏\r\noui tout à fait 👍\r\n🗣 La deuxième Sous Composante de la dernière Composante (Entretien avec Jury) est un examen oral : \r\nVous êtes invité à effectuer une présentation du dossier suivie d’une discussion avec les membres du Jury."
+	},
+	{
+		"question" : "Les candidats ont-ils la possibilité de répondre ou de fournir des éclaircissements sur des points soulevés par le comité ?",
+		"answer" : "Très bonne question 🌟\r\n👉 Oui, les candidats ont tout à fait la possibilité de répondre ou de fournir des éclaircissements sur les points soulevés par le comité.\r\nCela leur permet de préciser certains éléments de leur dossier ou de clarifier des aspects jugés ambigus, afin d’assurer une évaluation juste et complète."
+	}
+]}

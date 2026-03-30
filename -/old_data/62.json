@@ -1,0 +1,499 @@
+{
+"select question, answer from \"BOT_FAQ\" bf where id_intent = 62": [
+	{
+		"question" : "Combien de temps dure chaque épreuve ?",
+		"answer" : "💪 Excellente question !\r\nVoici toutes les informations sur la durée des épreuves :\r\n📍 Composante 1 (Connaissances de Bases) :\r\n&nbsp;&nbsp; - Test QCM : 1H30, examen surveillé 🕒\r\n&nbsp;&nbsp; - Dissertations (Français\/Anglais) : 2H, examen surveillé ✍️\r\n📍 Composante 2 (Production) & Composante 3 (Dossier & Entretien) :\r\nPréparation des livrables libre à tout moment 📂\r\nDépôt du travail entre la date de début et la date de fin 🗓️\r\n📍 Sous-sous-composante « Entretien avec jury » :\r\n&nbsp;&nbsp; - Présentation devant le comité et président : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion avec les membres du jury : 30 à 40 minutes 🗨️"
+	},
+	{
+		"question" : "Combien de temps dure chaque épreuve ?",
+		"answer" : "😎 Très pertinent comme question !\r\n📚 Informations complètes sur la durée des examens :\r\n▪ Composante 1 (Connaissances de Bases) :\r\n&nbsp;&nbsp; - Test QCM : 1H30 🖋️\r\n&nbsp;&nbsp; - Dissertations : 2H 📝\r\n▪ Composante 2 (Production) et Composante 3 (Dossier & Entretien) :\r\nTravail libre à préparer 💡\r\nDépôt obligatoire entre la date de début et la date de fin 📆\r\n▪ Entretien avec le jury (Composante 3, sous-sous-composante) :\r\n&nbsp;&nbsp; - Présentation devant jury : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion avec jury : 30 à 40 minutes 🗨️"
+	},
+	{
+		"question" : "Les épreuves se déroulent-elles sur une seule journée ?",
+		"answer" : "🙌 Excellent point soulevé !\r\nLes épreuves ne se déroulent pas sur une seule journée.\r\n▪ Composante 1 (Connaissances de Bases) : QCM et dissertations ont des dates fixées séparément.\r\n▪ Composante 2 (Production) et Composante 3 (Dossier & Entretien) : les livrables se préparent à tout moment et se déposent entre la date de début et la date de fin.\r\n▪ Entretien avec le jury : présenté à une date fixée, avec présentation 20 minutes + discussion 30-40 minutes.\r\n💡 En résumé, les différentes composantes et sous-composantes s’étalent sur plusieurs jours, et il faut respecter les dates fixées pour chaque étape."
+	},
+	{
+		"question" : "Combien de temps dure chaque épreuve ?",
+		"answer" : "💪 Excellente question !\r\n🕒 Durée et organisation des épreuves :\r\n👉 Composante 1 :\r\n&nbsp;&nbsp; - QCM : 1H30 ✅\r\n&nbsp;&nbsp; - Dissertations (Français\/Anglais) : 2H ✍️\r\n👉 Composante 2 & 3 :\r\n&nbsp;&nbsp;Préparation des livrables à tout moment ⏳\r\nDépôt entre la date de début et la date de fin 📅\r\n👉 Entretien avec jury (Composante 3) :\r\n&nbsp;&nbsp; - Présentation : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion : 30 à 40 minutes 💬"
+	},
+	{
+		"question" : "Peux-tu me dire la durée de Questionnaires a Choix Mutliples global ?",
+		"answer" : "🌸 Excellente question, vraiment pertinente 🙌\r\nLa durée du Test QCM est fixée à 1h30 ⏳.\r\nIl s’agit d’un examen surveillé, dont la date et le lieu seront précisés ultérieurement 📝📅."
+	},
+	{
+		"question" : "Quelle est la durée totale des examens ?",
+		"answer" : "😎 Très pertinent comme question !\r\n🕒 Total Composante 1 : QCM + dissertations = 3H30. Composantes 2 & 3 : préparation libre + entretien 50-60 min."
+	},
+	{
+		"question" : "Combien de temps pour les dissertations ?",
+		"answer" : "💡 Très précieux comme question !\r\n✍️ Les dissertations (Français\/Anglais) de la Composante 1 durent 2H, examen surveillé à une date fixée."
+	},
+	{
+		"question" : "Combien de temps ai-je pour le QCM et les dissertations ?",
+		"answer" : "💡 Très précieux comme question !\r\n🖋️ QCM : 1H30 ✅ | Dissertations : 2H ✍️"
+	},
+	{
+		"question" : "Combien de temps dure l’entretien avec les membres du jury ?",
+		"answer" : "🙌 Excellent point soulevé !\r\n🎤 L’entretien complet dure 50-60 minutes : présentation 20 min + discussion 30-40 min."
+	},
+	{
+		"question" : "Combien de temps est prévu pour les livrables ?",
+		"answer" : "🌟 Super !\r\n📂 La préparation des livrables est libre, il suffit de les déposer entre la date de début et la date de fin."
+	},
+	{
+		"question" : "Combien de temps dure chaque épreuve ?",
+		"answer" : "💡 Très précieux comme question !\r\n🕒 Chaque épreuve a une durée spécifique : \r\n▪ QCM : 1H30\r\n▪ Dissertations : 2H\r\n▪ Présentation devant jury : 20 minutes\r\n▪ Entretien avec jury : 30-40 minutes\r\n▪ Les livrables à préparer librement"
+	},
+	{
+		"question" : "Combien de temps pour le test QCM ?",
+		"answer" : "🌟 Super !\r\n🖋️ Le test QCM de la Composante 1 dure 1H30, examen surveillé à une date fixée."
+	},
+	{
+		"question" : "Combien de temps pour la Composante 2 ?",
+		"answer" : "💡 Très précieux comme question !\r\n📂 La Composante 2 (Production) peut être préparée à tout moment, il faut juste déposer les livrables entre la date de début et la date de fin."
+	},
+	{
+		"question" : "Peux-tu me donner la durée de chaque épreuve ?",
+		"answer" : "Avec un grand plaisir 💖\r\n🕒 Chaque épreuve a une durée spécifique : \r\n▪ QCM : 1H30\r\n▪ Dissertations : 2H\r\n▪ Présentation devant jury : 20 minutes\r\n▪ Entretien avec jury : 30-40 minutes\r\n▪ Les livrables à préparer librement"
+	},
+	{
+		"question" : "Quelle est la durée prévue pour les QCM et dissertations ?",
+		"answer" : "🌟 Super !\r\n🖋️ QCM 1H30 ✅ | Dissertations 2H ✍️"
+	},
+	{
+		"question" : "Combien de temps dois-je consacrer à la Composante 2 et 3 ?",
+		"answer" : "🙌 Excellent point soulevé !\r\n📂 Préparation des livrables libre ⏳, dépôt entre date de début et date de fin. Entretien avec jury 50-60 min 🎤💬"
+	},
+	{
+		"question" : "Combien de temps dure exactement l’entretien avec le jury ?",
+		"answer" : "😎 Très pertinent comme question !\r\n🎤 L’entretien complet dure 50 à 60 minutes : 20 min présentation + 30-40 min discussion."
+	},
+	{
+		"question" : "Combien de minutes pour la présentation devant le jury et discussion après ?",
+		"answer" : "💡 Très précieux comme question !\r\n🎤 Présentation : 20 minutes | Discussion : 30-40 minutes 💬"
+	},
+	{
+		"question" : "Combien de temps faut-il pour préparer la Composante 2 et 3 ?",
+		"answer" : "😎 Très pertinent comme question !\r\n📂 La préparation des livrables pour Composante 2 et 3 est libre ⏳, dépôt à effectuer entre la date de début et de fin."
+	},
+	{
+		"question" : "Quelle est la durée de la présentation devant le jury ?",
+		"answer" : "🧐 Question intéressante !\r\n🗣️ La présentation devant le jury dure 20 minutes, devant le comité et le président de jury."
+	},
+	{
+		"question" : "Quelle est la durée de la discussion avec le jury ?",
+		"answer" : "💪 Excellente question !\r\n💬 La discussion avec les membres du jury dure 30 à 40 minutes, après la présentation."
+	},
+	{
+		"question" : "Combien de temps pour la Composante 3 ?",
+		"answer" : "🧐 Question intéressante !\r\n📆 La Composante 3 comprend le dépôt des livrables (préparation libre) et l’entretien avec jury (présentation 20 min + discussion 30-40 min)."
+	},
+	{
+		"question" : "Combien de temps pour l’entretien avec le jury ?",
+		"answer" : "💡 Très précieux comme question !\r\n🎤 L’entretien avec le jury dure environ 50-60 minutes : 20 minutes de présentation + 30 à 40 minutes de discussion."
+	},
+	{
+		"question" : "durée de la présentation devant le jury ?",
+		"answer" : "💡 Très précieux comme question !\r\n🗣️ La présentation devant le jury dure 20 minutes, devant le comité et le président de jury."
+	},
+	{
+		"question" : "donner la durée des examens",
+		"answer" : "🙌 Excellent point soulevé !\r\nVoici toutes les informations sur la durée des épreuves :\r\n📍 Composante 1 (Connaissances de Bases) :\r\n&nbsp;&nbsp; - Test QCM : 1H30, examen surveillé 🕒\r\n&nbsp;&nbsp; - Dissertations (Français\/Anglais) : 2H, examen surveillé ✍️\r\n📍 Composante 2 (Production) & Composante 3 (Dossier & Entretien) :\r\nPréparation des livrables libre à tout moment 📂\r\nDépôt du travail entre la date de début et la date de fin 🗓️\r\n📍 Sous-sous-composante « Entretien avec jury » :\r\n&nbsp;&nbsp; - Présentation devant le comité et président : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion avec les membres du jury : 30 à 40 minutes 🗨️"
+	},
+	{
+		"question" : "Quelle durée pour chaque sous-composante du passage de grade ?",
+		"answer" : "💡 Très précieux comme question !\r\nVoici toutes les informations sur la durée des épreuves :\r\n📍 Composante 1 (Connaissances de Bases) :\r\n&nbsp;&nbsp; - Test QCM : 1H30, examen surveillé 🕒\r\n&nbsp;&nbsp; - Dissertations (Français\/Anglais) : 2H, examen surveillé ✍️\r\n📍 Composante 2 (Production) & Composante 3 (Dossier & Entretien) :\r\nPréparation des livrables libre à tout moment 📂\r\nDépôt du travail entre la date de début et la date de fin 🗓️\r\n📍 Sous-sous-composante « Entretien avec jury » :\r\n&nbsp;&nbsp; - Présentation devant le comité et président : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion avec les membres du jury : 30 à 40 minutes 🗨️"
+	},
+	{
+		"question" : "Peux-tu détailler le temps pour chaque composante et sous-composante ?",
+		"answer" : "🧐 Question intéressante !\r\nVoici toutes les informations sur la durée des épreuves :\r\n📍 Composante 1 (Connaissances de Bases) :\r\n&nbsp;&nbsp; - Test QCM : 1H30, examen surveillé 🕒\r\n&nbsp;&nbsp; - Dissertations (Français\/Anglais) : 2H, examen surveillé ✍️\r\n📍 Composante 2 (Production) & Composante 3 (Dossier & Entretien) :\r\nPréparation des livrables libre à tout moment 📂\r\nDépôt du travail entre la date de début et la date de fin 🗓️\r\n📍 Sous-sous-composante « Entretien avec jury » :\r\n&nbsp;&nbsp; - Présentation devant le comité et président : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion avec les membres du jury : 30 à 40 minutes 🗨️"
+	},
+	{
+		"question" : "Quelle est la durée des examens ?",
+		"answer" : "🙌 Excellent point soulevé !\r\nVoici toutes les informations sur la durée des épreuves :\r\n📍 Composante 1 (Connaissances de Bases) :\r\n&nbsp;&nbsp; - Test QCM : 1H30, examen surveillé 🕒\r\n&nbsp;&nbsp; - Dissertations (Français\/Anglais) : 2H, examen surveillé ✍️\r\n📍 Composante 2 (Production) & Composante 3 (Dossier & Entretien) :\r\nPréparation des livrables libre à tout moment 📂\r\nDépôt du travail entre la date de début et la date de fin 🗓️\r\n📍 Sous-sous-composante « Entretien avec jury » :\r\n&nbsp;&nbsp; - Présentation devant le comité et président : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion avec les membres du jury : 30 à 40 minutes 🗨️"
+	},
+	{
+		"question" : "Je voudrais savoir combien de temps dure chaque examen ⏳",
+		"answer" : "💪 Excellente question !\r\nVoici toutes les informations sur la durée des épreuves :\r\n📍 Composante 1 (Connaissances de Bases) :\r\n&nbsp;&nbsp; - Test QCM : 1H30, examen surveillé 🕒\r\n&nbsp;&nbsp; - Dissertations (Français\/Anglais) : 2H, examen surveillé ✍️\r\n📍 Composante 2 (Production) & Composante 3 (Dossier & Entretien) :\r\nPréparation des livrables libre à tout moment 📂\r\nDépôt du travail entre la date de début et la date de fin 🗓️\r\n📍 Sous-sous-composante « Entretien avec jury » :\r\n&nbsp;&nbsp; - Présentation devant le comité et président : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion avec les membres du jury : 30 à 40 minutes 🗨️"
+	},
+	{
+		"question" : "peut tu s'il est possible me présenter les dures pour chaque epreuve",
+		"answer" : "😎 Très pertinent comme question !\r\n📚 Informations complètes sur la durée des examens :\r\n▪ Composante 1 (Connaissances de Bases) :\r\n&nbsp;&nbsp; - Test QCM : 1H30 🖋️\r\n&nbsp;&nbsp; - Dissertations : 2H 📝\r\n▪ Composante 2 (Production) et Composante 3 (Dossier & Entretien) :\r\nTravail libre à préparer 💡\r\nDépôt obligatoire entre la date de début et la date de fin 📆\r\n▪ Entretien avec le jury (Composante 3, sous-sous-composante) :\r\n&nbsp;&nbsp; - Présentation devant jury : 20 minutes 🎤\r\n&nbsp;&nbsp; - Discussion avec jury : 30 à 40 minutes 🗨️"
+	},
+	{
+		"question" : "durée test_qcm",
+		"answer" : "✨ Très précieuse question 💡 !\r\nLa durée allouée au QCM est de 1h30 ⏱️.\r\nC’est un examen surveillé, dont la date et le lieu seront communiqués ultérieurement 📅🏫."
+	},
+	{
+		"question" : "durée qcm_all",
+		"answer" : "🚀 Super question, j’adore ton sens du détail 😄 !\r\nLe QCM dure 1h30 pile ⏰.\r\nC’est un examen surveillé, et la date ainsi que le lieu seront annoncés plus tard 🗓️📍."
+	},
+	{
+		"question" : "durée QCM",
+		"answer" : "🌸 Excellente question, vraiment pertinente 🙌\r\nLa durée du Test QCM est fixée à 1h30 ⏳.\r\nIl s’agit d’un examen surveillé, dont la date et le lieu seront précisés ultérieurement 📝📅."
+	},
+	{
+		"question" : "Peux-tu m’indiquer la durée de l’examen test qcm ?",
+		"answer" : "✨ Très précieuse question 💡 !\r\nLa durée allouée au Test QCM est de 1h30 ⏱️.\r\nC’est un examen surveillé, dont la date et le lieu seront communiqués ultérieurement 📅🏫."
+	},
+	{
+		"question" : "L’examen test_qcm est prévu pour combien de temps ?",
+		"answer" : "🚀 Super question, j’adore ton sens du détail 😄 !\r\nLe Test QCM dure 1h30 pile ⏰.\r\nC’est un examen surveillé, et la date ainsi que le lieu seront annoncés plus tard 🗓️📍."
+	},
+	{
+		"question" : "La sous sous composante Test QCM, elle dure combien ?",
+		"answer" : "🌸 Excellente question, vraiment pertinente 🙌\r\nLa durée du Test QCM est fixée à 1h30 ⏳.\r\nIl s’agit d’un examen surveillé, dont la date et le lieu seront précisés ultérieurement 📝📅."
+	},
+	{
+		"question" : "Combien de minutes dure l’examen qcm_all ?",
+		"answer" : "✨ Très précieuse question 💡 !\r\nLa durée allouée au Test QCM est de 1h30 ⏱️.\r\nC’est un examen surveillé, dont la date et le lieu seront communiqués ultérieurement 📅🏫."
+	},
+	{
+		"question" : "Quelle est la durée totale de test Questionnaire CM ?",
+		"answer" : "🚀 Super question, j’adore ton sens du détail 😄 !\r\nLe Test QCM dure 1h30 pile ⏰.\r\nC’est un examen surveillé, et la date ainsi que le lieu seront annoncés plus tard 🗓️📍."
+	},
+	{
+		"question" : "Donne-moi la durée exacte de Questionnaires a CM.",
+		"answer" : "🌸 Excellente question, vraiment pertinente 🙌\r\nLa durée du Test QCM est fixée à 1h30 ⏳.\r\nIl s’agit d’un examen surveillé, dont la date et le lieu seront précisés ultérieurement 📝📅."
+	},
+	{
+		"question" : "L’examen test Questionnaire CM est prévu pour combien de temps ?",
+		"answer" : "✨ Très précieuse question 💡 !\r\nLa durée allouée au Test QCM est de 1h30 ⏱️.\r\nC’est un examen surveillé, dont la date et le lieu seront communiqués ultérieurement 📅🏫."
+	},
+	{
+		"question" : "durée diss_all",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nSelon ton grade, tu es invité(e) à rédiger pendant 2 heures 🕒 une dissertation en français et\/ou en anglais sur l’un des sujets proposés 📝.\r\n👉 Si tu postules pour le grade Enseignant Formateur, tu devras déposer 2 dissertations : une en français 🇫🇷 et une en anglais 🇬🇧.\r\n👉 Si tu postules pour le grade Enseignant Langue, Communication et Citoyenneté, tu devras déposer 1 seule dissertation, en français ou en anglais, selon ta spécialité 💼."
+	},
+	{
+		"question" : "C’est quoi la durée prévue pour la sous sous composante Dissertation ?",
+		"answer" : "⚡ Excellent réflexe de poser cette question 😎 !\r\nL’épreuve consiste à rédiger, pendant 2h, une dissertation 🖋️ en français et\/ou anglais selon ton grade.\r\n🎯 Pour le grade Enseignant Formateur → 2 dissertations à rendre : FR + EN.\r\n🌍 Pour le grade Enseignant Langue, Communication et Citoyenneté → 1 seule dissertation, dans la langue de ta spécialité.\r\nCourage 💪 tu gères ça comme un pro !"
+	},
+	{
+		"question" : "duree pour Dissertations",
+		"answer" : "🌷 Très bonne question, vraiment pertinente 💬\r\nL’épreuve dure 2 heures et consiste à rédiger une dissertation en français et\/ou en anglais, selon ton grade ✍️.\r\n📘 Enseignant Formateur → 2 dissertations à déposer : une en français 🇫🇷 et une en anglais 🇬🇧.\r\n📗 Enseignant Langue, Communication et Citoyenneté → 1 dissertation à déposer, dans la langue correspondant à ta spécialité 💫."
+	},
+	{
+		"question" : "durée caps_peda_all",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nTu dois élaborer 2 capsules pédagogiques 🎥 en français et\/ou en anglais, chacune d’une durée de 6 à 10 minutes ⏱️, portant sur deux modules différents.\r\nCes capsules sont de véritables séquences vidéo scénarisées, présentant un concept ou une approche liée à un ou plusieurs modules que tu as enseignés 🎓.\r\n👉 Si tu postules pour le grade Enseignant Formateur → tu dois déposer 2 capsules : une en français 🇫🇷 et une en anglais 🇬🇧.\r\n👉 Si tu postules pour le grade Enseignant Langue, Communication et Citoyenneté → tu dois déposer 1 capsule, en français ou en anglais, selon ta spécialité 💼.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "durée Caps Pédagogiques Totales",
+		"answer" : "🎥 Excellente question, champion(ne) de la pédagogie 😄 !\r\nTu dois créer 2 capsules vidéo de 6 à 10 minutes chacune ⏰, en français et\/ou anglais, sur deux modules différents.\r\nCes vidéos doivent être scénarisées et illustrer un concept ou une méthode que tu enseignes 💡.\r\n📘 Pour le grade Enseignant Formateur → 2 capsules (FR + EN).\r\n📗 Pour le grade Enseignant Langue, Communication et Citoyenneté → 1 capsule (FR ou EN selon ta spécialité).\r\n🔁 Le dépôt est libre à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nTu vas briller avec ta créativité ✨🎬 !"
+	},
+	{
+		"question" : "durée caps",
+		"answer" : "🌷 Très belle question, vraiment pertinente 🙏\r\nL’épreuve consiste à produire 2 capsules pédagogiques 🎞️, en français et\/ou en anglais, d’une durée de 6 à 10 minutes chacune.\r\nIl s’agit de séquences vidéo scénarisées expliquant un concept ou une approche en lien avec les modules que tu as assurés 🎓.\r\n👉 Enseignant Formateur → 2 capsules à déposer (une en FR 🇫🇷 et une en EN 🇬🇧).\r\n👉 Enseignant Langue, Communication et Citoyenneté → 1 capsule à déposer, selon ta spécialité linguistique 💬.\r\n🕒 Le dépôt est possible à tout moment sur la plateforme, entre la date d’ouverture et de clôture qui seront précisées prochainement 📅."
+	},
+	{
+		"question" : "Peux-tu m’indiquer la durée de la sous sous composante caps pédagogiques Globale ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nTu dois élaborer 2 capsules pédagogiques 🎥 en français et\/ou en anglais, chacune d’une durée de 6 à 10 minutes ⏱️, portant sur deux modules différents.\r\nCes capsules sont de véritables séquences vidéo scénarisées, présentant un concept ou une approche liée à un ou plusieurs modules que tu as enseignés 🎓.\r\n👉 Si tu postules pour le grade Enseignant Formateur → tu dois déposer 2 capsules : une en français 🇫🇷 et une en anglais 🇬🇧.\r\n👉 Si tu postules pour le grade Enseignant Langue, Communication et Citoyenneté → tu dois déposer 1 capsule, en français ou en anglais, selon ta spécialité 💼.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "Quelle est la durée officielle de l’épreuve caps pédagogiques ?",
+		"answer" : "🎥 Excellente question, champion(ne) de la pédagogie 😄 !\r\nTu dois créer 2 capsules vidéo de 6 à 10 minutes chacune ⏰, en français et\/ou anglais, sur deux modules différents.\r\nCes vidéos doivent être scénarisées et illustrer un concept ou une méthode que tu enseignes 💡.\r\n📘 Pour le grade Enseignant Formateur → 2 capsules (FR + EN).\r\n📗 Pour le grade Enseignant Langue, Communication et Citoyenneté → 1 capsule (FR ou EN selon ta spécialité).\r\n🔁 Le dépôt est libre à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nTu vas briller avec ta créativité ✨🎬 !"
+	},
+	{
+		"question" : "Dis-moi combien dure l’examen Capsule Pédagogique.",
+		"answer" : "🌷 Très belle question, vraiment pertinente 🙏\r\nL’épreuve consiste à produire 2 capsules pédagogiques 🎞️, en français et\/ou en anglais, d’une durée de 6 à 10 minutes chacune.\r\nIl s’agit de séquences vidéo scénarisées expliquant un concept ou une approche en lien avec les modules que tu as assurés 🎓.\r\n👉 Enseignant Formateur → 2 capsules à déposer (une en FR 🇫🇷 et une en EN 🇬🇧).\r\n👉 Enseignant Langue, Communication et Citoyenneté → 1 capsule à déposer, selon ta spécialité linguistique 💬.\r\n🕒 Le dépôt est possible à tout moment sur la plateforme, entre la date d’ouverture et de clôture qui seront précisées prochainement 📅."
+	},
+	{
+		"question" : "Quelle est la durée de la sous sous composante caps ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nTu dois élaborer 2 capsules pédagogiques 🎥 en français et\/ou en anglais, chacune d’une durée de 6 à 10 minutes ⏱️, portant sur deux modules différents.\r\nCes capsules sont de véritables séquences vidéo scénarisées, présentant un concept ou une approche liée à un ou plusieurs modules que tu as enseignés 🎓.\r\n👉 Si tu postules pour le grade Enseignant Formateur → tu dois déposer 2 capsules : une en français 🇫🇷 et une en anglais 🇬🇧.\r\n👉 Si tu postules pour le grade Enseignant Langue, Communication et Citoyenneté → tu dois déposer 1 capsule, en français ou en anglais, selon ta spécialité 💼.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "Donne-moi la durée exacte de l’examen Capsule péda.",
+		"answer" : "🎥 Excellente question, champion(ne) de la pédagogie 😄 !\r\nTu dois créer 2 capsules vidéo de 6 à 10 minutes chacune ⏰, en français et\/ou anglais, sur deux modules différents.\r\nCes vidéos doivent être scénarisées et illustrer un concept ou une méthode que tu enseignes 💡.\r\n📘 Pour le grade Enseignant Formateur → 2 capsules (FR + EN).\r\n📗 Pour le grade Enseignant Langue, Communication et Citoyenneté → 1 capsule (FR ou EN selon ta spécialité).\r\n🔁 Le dépôt est libre à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nTu vas briller avec ta créativité ✨🎬 !"
+	},
+	{
+		"question" : "Combien d’heures prend capsule ?",
+		"answer" : "🌷 Très belle question, vraiment pertinente 🙏\r\nL’épreuve consiste à produire 2 capsules pédagogiques 🎞️, en français et\/ou en anglais, d’une durée de 6 à 10 minutes chacune.\r\nIl s’agit de séquences vidéo scénarisées expliquant un concept ou une approche en lien avec les modules que tu as assurés 🎓.\r\n👉 Enseignant Formateur → 2 capsules à déposer (une en FR 🇫🇷 et une en EN 🇬🇧).\r\n👉 Enseignant Langue, Communication et Citoyenneté → 1 capsule à déposer, selon ta spécialité linguistique 💬.\r\n🕒 Le dépôt est possible à tout moment sur la plateforme, entre la date d’ouverture et de clôture qui seront précisées prochainement 📅."
+	},
+	{
+		"question" : "L’évaluation Capsule Péda se déroule pendant combien de temps ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nTu dois élaborer 2 capsules pédagogiques 🎥 en français et\/ou en anglais, chacune d’une durée de 6 à 10 minutes ⏱️, portant sur deux modules différents.\r\nCes capsules sont de véritables séquences vidéo scénarisées, présentant un concept ou une approche liée à un ou plusieurs modules que tu as enseignés 🎓.\r\n👉 Si tu postules pour le grade Enseignant Formateur → tu dois déposer 2 capsules : une en français 🇫🇷 et une en anglais 🇬🇧.\r\n👉 Si tu postules pour le grade Enseignant Langue, Communication et Citoyenneté → tu dois déposer 1 capsule, en français ou en anglais, selon ta spécialité 💼.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "L’épreuve capsules, elle dure combien ?",
+		"answer" : "🎥 Excellente question, champion(ne) de la pédagogie 😄 !\r\nTu dois créer 2 capsules vidéo de 6 à 10 minutes chacune ⏰, en français et\/ou anglais, sur deux modules différents.\r\nCes vidéos doivent être scénarisées et illustrer un concept ou une méthode que tu enseignes 💡.\r\n📘 Pour le grade Enseignant Formateur → 2 capsules (FR + EN).\r\n📗 Pour le grade Enseignant Langue, Communication et Citoyenneté → 1 capsule (FR ou EN selon ta spécialité).\r\n🔁 Le dépôt est libre à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nTu vas briller avec ta créativité ✨🎬 !"
+	},
+	{
+		"question" : "Combien de temps les candidats ont pour la sous sous composante Capsules peda ?",
+		"answer" : "🌷 Très belle question, vraiment pertinente 🙏\r\nL’épreuve consiste à produire 2 capsules pédagogiques 🎞️, en français et\/ou en anglais, d’une durée de 6 à 10 minutes chacune.\r\nIl s’agit de séquences vidéo scénarisées expliquant un concept ou une approche en lien avec les modules que tu as assurés 🎓.\r\n👉 Enseignant Formateur → 2 capsules à déposer (une en FR 🇫🇷 et une en EN 🇬🇧).\r\n👉 Enseignant Langue, Communication et Citoyenneté → 1 capsule à déposer, selon ta spécialité linguistique 💬.\r\n🕒 Le dépôt est possible à tout moment sur la plateforme, entre la date d’ouverture et de clôture qui seront précisées prochainement 📅."
+	},
+	{
+		"question" : "J’aimerais savoir combien de temps dure Capsules Pédagogiques.",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nTu dois élaborer 2 capsules pédagogiques 🎥 en français et\/ou en anglais, chacune d’une durée de 6 à 10 minutes ⏱️, portant sur deux modules différents.\r\nCes capsules sont de véritables séquences vidéo scénarisées, présentant un concept ou une approche liée à un ou plusieurs modules que tu as enseignés 🎓.\r\n👉 Si tu postules pour le grade Enseignant Formateur → tu dois déposer 2 capsules : une en français 🇫🇷 et une en anglais 🇬🇧.\r\n👉 Si tu postules pour le grade Enseignant Langue, Communication et Citoyenneté → tu dois déposer 1 capsule, en français ou en anglais, selon ta spécialité 💼.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "Capsules peda dure combien ?",
+		"answer" : "🎥 Excellente question, champion(ne) de la pédagogie 😄 !\r\nTu dois créer 2 capsules vidéo de 6 à 10 minutes chacune ⏰, en français et\/ou anglais, sur deux modules différents.\r\nCes vidéos doivent être scénarisées et illustrer un concept ou une méthode que tu enseignes 💡.\r\n📘 Pour le grade Enseignant Formateur → 2 capsules (FR + EN).\r\n📗 Pour le grade Enseignant Langue, Communication et Citoyenneté → 1 capsule (FR ou EN selon ta spécialité).\r\n🔁 Le dépôt est libre à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nTu vas briller avec ta créativité ✨🎬 !"
+	},
+	{
+		"question" : "Combien d’heures prend caps_peda_all ?",
+		"answer" : "🌷 Très belle question, vraiment pertinente 🙏\r\nL’épreuve consiste à produire 2 capsules pédagogiques 🎞️, en français et\/ou en anglais, d’une durée de 6 à 10 minutes chacune.\r\nIl s’agit de séquences vidéo scénarisées expliquant un concept ou une approche en lien avec les modules que tu as assurés 🎓.\r\n👉 Enseignant Formateur → 2 capsules à déposer (une en FR 🇫🇷 et une en EN 🇬🇧).\r\n👉 Enseignant Langue, Communication et Citoyenneté → 1 capsule à déposer, selon ta spécialité linguistique 💬.\r\n🕒 Le dépôt est possible à tout moment sur la plateforme, entre la date d’ouverture et de clôture qui seront précisées prochainement 📅."
+	},
+	{
+		"question" : "La sous sous composante Capsules peda Totales se déroule pendant combien de temps ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nTu dois élaborer 2 capsules pédagogiques 🎥 en français et\/ou en anglais, chacune d’une durée de 6 à 10 minutes ⏱️, portant sur deux modules différents.\r\nCes capsules sont de véritables séquences vidéo scénarisées, présentant un concept ou une approche liée à un ou plusieurs modules que tu as enseignés 🎓.\r\n👉 Si tu postules pour le grade Enseignant Formateur → tu dois déposer 2 capsules : une en français 🇫🇷 et une en anglais 🇬🇧.\r\n👉 Si tu postules pour le grade Enseignant Langue, Communication et Citoyenneté → tu dois déposer 1 capsule, en français ou en anglais, selon ta spécialité 💼.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "durée eval_pres_se",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nQuel que soit le grade pour lequel tu as postulé, la durée de la séquence d’enseignement est d’environ 30 minutes ⏱️.\r\nEn plus, tu es invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta séquence 🎓.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "durée eval_se",
+		"answer" : "🎯 Super question, toujours aussi précis(e) 😎 !\r\nPeu importe le grade, la séquence d’enseignement doit durer environ 30 minutes 🎥.\r\nTu devras aussi préparer un document de présentation de 2000 mots max 🖋️ pour accompagner ta séquence et valoriser ton approche pédagogique 💡.\r\n⏳ Le dépôt est possible à tout moment via la plateforme, entre les dates qui seront annoncées prochainement 📅.\r\nTu gères ça comme un(e) pro 💪✨ !"
+	},
+	{
+		"question" : "durée seq_ens_all",
+		"answer" : "🌷 Très bonne question, vraiment pertinente 🙏\r\nQuelle que soit la catégorie de grade, la séquence d’enseignement doit durer environ 30 minutes ⏰.\r\nEn complément, tu es invité(e) à rédiger un document de présentation de 2000 mots maximum, en lien avec ta séquence 🎓.\r\n🕒 Le dépôt peut être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📆."
+	},
+	{
+		"question" : "durée Éval Prés Séq Enseignement",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nQuel que soit le grade pour lequel tu as postulé, la durée de la séquence d’enseignement est d’environ 30 minutes ⏱️.\r\nEn plus, tu es invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta séquence 🎓.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "durée évaluation présentation SE",
+		"answer" : "🎯 Super question, toujours aussi précis(e) 😎 !\r\nPeu importe le grade, la séquence d’enseignement doit durer environ 30 minutes 🎥.\r\nTu devras aussi préparer un document de présentation de 2000 mots max 🖋️ pour accompagner ta séquence et valoriser ton approche pédagogique 💡.\r\n⏳ Le dépôt est possible à tout moment via la plateforme, entre les dates qui seront annoncées prochainement 📅.\r\nTu gères ça comme un(e) pro 💪✨ !"
+	},
+	{
+		"question" : "durée Évaluation Document Présentation Séquences Ens",
+		"answer" : "🌷 Très bonne question, vraiment pertinente 🙏\r\nQuelle que soit la catégorie de grade, la séquence d’enseignement doit durer environ 30 minutes ⏰.\r\nEn complément, tu es invité(e) à rédiger un document de présentation de 2000 mots maximum, en lien avec ta séquence 🎓.\r\n🕒 Le dépôt peut être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📆."
+	},
+	{
+		"question" : "durée Eval doc prés SE",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nQuel que soit le grade pour lequel tu as postulé, la durée de la séquence d’enseignement est d’environ 30 minutes ⏱️.\r\nEn plus, tu es invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta séquence 🎓.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "durée Eval Doc Présentation Séquences Ens",
+		"answer" : "🎯 Super question, toujours aussi précis(e) 😎 !\r\nPeu importe le grade, la séquence d’enseignement doit durer environ 30 minutes 🎥.\r\nTu devras aussi préparer un document de présentation de 2000 mots max 🖋️ pour accompagner ta séquence et valoriser ton approche pédagogique 💡.\r\n⏳ Le dépôt est possible à tout moment via la plateforme, entre les dates qui seront annoncées prochainement 📅.\r\nTu gères ça comme un(e) pro 💪✨ !"
+	},
+	{
+		"question" : "durée Eval Présentation Séquences Ens",
+		"answer" : "🌷 Très bonne question, vraiment pertinente 🙏\r\nQuelle que soit la catégorie de grade, la séquence d’enseignement doit durer environ 30 minutes ⏰.\r\nEn complément, tu es invité(e) à rédiger un document de présentation de 2000 mots maximum, en lien avec ta séquence 🎓.\r\n🕒 Le dépôt peut être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📆."
+	},
+	{
+		"question" : "durée eval seq ens ens",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nQuel que soit le grade pour lequel tu as postulé, la durée de la séquence d’enseignement est d’environ 30 minutes ⏱️.\r\nEn plus, tu es invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta séquence 🎓.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "Éval Prés SE, elle se fait en combien de temps ?",
+		"answer" : "🎯 Super question, toujours aussi précis(e) 😎 !\r\nPeu importe le grade, la séquence d’enseignement doit durer environ 30 minutes 🎥.\r\nTu devras aussi préparer un document de présentation de 2000 mots max 🖋️ pour accompagner ta séquence et valoriser ton approche pédagogique 💡.\r\n⏳ Le dépôt est possible à tout moment via la plateforme, entre les dates qui seront annoncées prochainement 📅.\r\nTu gères ça comme un(e) pro 💪✨ !"
+	},
+	{
+		"question" : "Quelle est la durée totale de la sous sous composante SE ?",
+		"answer" : "🌷 Très bonne question, vraiment pertinente 🙏\r\nQuelle que soit la catégorie de grade, la séquence d’enseignement doit durer environ 30 minutes ⏰.\r\nEn complément, tu es invité(e) à rédiger un document de présentation de 2000 mots maximum, en lien avec ta séquence 🎓.\r\n🕒 Le dépôt peut être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📆."
+	},
+	{
+		"question" : "J’aimerais savoir combien de temps dure l’examen se.",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nQuel que soit le grade pour lequel tu as postulé, la durée de la séquence d’enseignement est d’environ 30 minutes ⏱️.\r\nEn plus, tu es invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta séquence 🎓.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "L’épreuve évaluation séquence Enseignement, elle se fait en combien de temps ?",
+		"answer" : "🎯 Super question, toujours aussi précis(e) 😎 !\r\nPeu importe le grade, la séquence d’enseignement doit durer environ 30 minutes 🎥.\r\nTu devras aussi préparer un document de présentation de 2000 mots max 🖋️ pour accompagner ta séquence et valoriser ton approche pédagogique 💡.\r\n⏳ Le dépôt est possible à tout moment via la plateforme, entre les dates qui seront annoncées prochainement 📅.\r\nTu gères ça comme un(e) pro 💪✨ !"
+	},
+	{
+		"question" : "La sous sous composante Évaluation de Présentation SE est prévu pour combien de temps ?",
+		"answer" : "🌷 Très bonne question, vraiment pertinente 🙏\r\nQuelle que soit la catégorie de grade, la séquence d’enseignement doit durer environ 30 minutes ⏰.\r\nEn complément, tu es invité(e) à rédiger un document de présentation de 2000 mots maximum, en lien avec ta séquence 🎓.\r\n🕒 Le dépôt peut être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📆."
+	},
+	{
+		"question" : "évaluation presentation Sequence d'Enseignement se déroule pendant combien de temps ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nQuel que soit le grade pour lequel tu as postulé, la durée de la séquence d’enseignement est d’environ 30 minutes ⏱️.\r\nEn plus, tu es invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta séquence 🎓.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "La sous sous composante evaluation presentation sequence enseignement, il dure combien de temps ?",
+		"answer" : "🎯 Super question, toujours aussi précis(e) 😎 !\r\nPeu importe le grade, la séquence d’enseignement doit durer environ 30 minutes 🎥.\r\nTu devras aussi préparer un document de présentation de 2000 mots max 🖋️ pour accompagner ta séquence et valoriser ton approche pédagogique 💡.\r\n⏳ Le dépôt est possible à tout moment via la plateforme, entre les dates qui seront annoncées prochainement 📅.\r\nTu gères ça comme un(e) pro 💪✨ !"
+	},
+	{
+		"question" : "Dis-moi combien dure evaluation presentation sequence enseignement.",
+		"answer" : "🌷 Très bonne question, vraiment pertinente 🙏\r\nQuelle que soit la catégorie de grade, la séquence d’enseignement doit durer environ 30 minutes ⏰.\r\nEn complément, tu es invité(e) à rédiger un document de présentation de 2000 mots maximum, en lien avec ta séquence 🎓.\r\n🕒 Le dépôt peut être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📆."
+	},
+	{
+		"question" : "Quelle est la durée de Evaluation Séquence Enseignement ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nQuel que soit le grade pour lequel tu as postulé, la durée de la séquence d’enseignement est d’environ 30 minutes ⏱️.\r\nEn plus, tu es invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta séquence 🎓.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "évaluation presentation séquence enseignement est prévu pour combien de temps ?",
+		"answer" : "🎯 Super question, toujours aussi précis(e) 😎 !\r\nPeu importe le grade, la séquence d’enseignement doit durer environ 30 minutes 🎥.\r\nTu devras aussi préparer un document de présentation de 2000 mots max 🖋️ pour accompagner ta séquence et valoriser ton approche pédagogique 💡.\r\n⏳ Le dépôt est possible à tout moment via la plateforme, entre les dates qui seront annoncées prochainement 📅.\r\nTu gères ça comme un(e) pro 💪✨ !"
+	},
+	{
+		"question" : "L’examen evaluation de Document de Présentation Séquences Enseignement dure combien ?",
+		"answer" : "🌷 Très bonne question, vraiment pertinente 🙏\r\nQuelle que soit la catégorie de grade, la séquence d’enseignement doit durer environ 30 minutes ⏰.\r\nEn complément, tu es invité(e) à rédiger un document de présentation de 2000 mots maximum, en lien avec ta séquence 🎓.\r\n🕒 Le dépôt peut être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📆."
+	},
+	{
+		"question" : "Éval Présentation Séquences Ens, elle dure combien ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nQuel que soit le grade pour lequel tu as postulé, la durée de la séquence d’enseignement est d’environ 30 minutes ⏱️.\r\nEn plus, tu es invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta séquence 🎓.\r\n📅 Le dépôt pourra être effectué à tout moment sur la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "eval_pres_se, elle dure combien ?",
+		"answer" : "🎯 Super question, toujours aussi précis(e) 😎 !\r\nPeu importe le grade, la séquence d’enseignement doit durer environ 30 minutes 🎥.\r\nTu devras aussi préparer un document de présentation de 2000 mots max 🖋️ pour accompagner ta séquence et valoriser ton approche pédagogique 💡.\r\n⏳ Le dépôt est possible à tout moment via la plateforme, entre les dates qui seront annoncées prochainement 📅.\r\nTu gères ça comme un(e) pro 💪✨ !"
+	},
+	{
+		"question" : "durée eval_pres_ptp",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nSi tu es candidat(e) au grade Enseignant Formateur, la durée de la Plateforme de TP (PTP) est d’environ 30 minutes ⏱️.\r\nTu es également invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta PTP 🎓.\r\n📅 Le dépôt peut être effectué à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "durée eval_ptp",
+		"answer" : "🎯 Excellente question, toujours au top de la préparation 😎 !\r\nPour les candidats au grade Enseignant Formateur, la Plateforme de TP dure environ 30 minutes 🎥.\r\nTu devras aussi rédiger un document de présentation de 2000 mots max, pour accompagner ta PTP et valoriser ton approche pédagogique 💡.\r\n🔁 Le dépôt est possible à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nLet’s go, tu vas cartonner 💪🔥 !"
+	},
+	{
+		"question" : "durée plat_tp_all",
+		"answer" : "🌷 Très bonne question, merci de ton attention aux détails 🙏\r\nSi tu postules pour le grade Enseignant Formateur, la durée de la Plateforme de TP est fixée à environ 30 minutes ⏰.\r\nTu es invité(e) à rédiger un document de présentation de 2000 mots maximum, à joindre à ta PTP 🎓.\r\n🕒 Le dépôt pourra être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📅."
+	},
+	{
+		"question" : "durée plateforme Travaux Pratiques",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nSi tu es candidat(e) au grade Enseignant Formateur, la durée de la Plateforme de TP (PTP) est d’environ 30 minutes ⏱️.\r\nTu es également invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta PTP 🎓.\r\n📅 Le dépôt peut être effectué à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "Combien d’heures prend la sous sous composante eval présentation ptp ?",
+		"answer" : "🎯 Excellente question, toujours au top de la préparation 😎 !\r\nPour les candidats au grade Enseignant Formateur, la Plateforme de TP dure environ 30 minutes 🎥.\r\nTu devras aussi rédiger un document de présentation de 2000 mots max, pour accompagner ta PTP et valoriser ton approche pédagogique 💡.\r\n🔁 Le dépôt est possible à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nLet’s go, tu vas cartonner 💪🔥 !"
+	},
+	{
+		"question" : "durée ptp",
+		"answer" : "🌷 Très bonne question, merci de ton attention aux détails 🙏\r\nSi tu postules pour le grade Enseignant Formateur, la durée de la Plateforme de TP est fixée à environ 30 minutes ⏰.\r\nTu es invité(e) à rédiger un document de présentation de 2000 mots maximum, à joindre à ta PTP 🎓.\r\n🕒 Le dépôt pourra être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📅."
+	},
+	{
+		"question" : "Combien d’heures prend la sous sous composante eval_pres_ptp ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nSi tu es candidat(e) au grade Enseignant Formateur, la durée de la Plateforme de TP (PTP) est d’environ 30 minutes ⏱️.\r\nTu es également invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta PTP 🎓.\r\n📅 Le dépôt peut être effectué à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "Donne-moi la durée exacte de la sous sous composante eval_ptp.",
+		"answer" : "🎯 Excellente question, toujours au top de la préparation 😎 !\r\nPour les candidats au grade Enseignant Formateur, la Plateforme de TP dure environ 30 minutes 🎥.\r\nTu devras aussi rédiger un document de présentation de 2000 mots max, pour accompagner ta PTP et valoriser ton approche pédagogique 💡.\r\n🔁 Le dépôt est possible à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nLet’s go, tu vas cartonner 💪🔥 !"
+	},
+	{
+		"question" : "Dis-moi combien dure la sous sous composante PTP Globale.",
+		"answer" : "🌷 Très bonne question, merci de ton attention aux détails 🙏\r\nSi tu postules pour le grade Enseignant Formateur, la durée de la Plateforme de TP est fixée à environ 30 minutes ⏰.\r\nTu es invité(e) à rédiger un document de présentation de 2000 mots maximum, à joindre à ta PTP 🎓.\r\n🕒 Le dépôt pourra être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📅."
+	},
+	{
+		"question" : "J’aimerais savoir combien de temps dure la sous sous composante évaluation de la PTP.",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nSi tu es candidat(e) au grade Enseignant Formateur, la durée de la Plateforme de TP (PTP) est d’environ 30 minutes ⏱️.\r\nTu es également invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta PTP 🎓.\r\n📅 Le dépôt peut être effectué à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "Peux-tu me dire la durée de la sous sous composante PTP ?",
+		"answer" : "🎯 Excellente question, toujours au top de la préparation 😎 !\r\nPour les candidats au grade Enseignant Formateur, la Plateforme de TP dure environ 30 minutes 🎥.\r\nTu devras aussi rédiger un document de présentation de 2000 mots max, pour accompagner ta PTP et valoriser ton approche pédagogique 💡.\r\n🔁 Le dépôt est possible à tout moment via la plateforme, entre les dates à venir 🗓️.\r\nLet’s go, tu vas cartonner 💪🔥 !"
+	},
+	{
+		"question" : "Combien de temps les candidats ont pour l’examen eval_ptp ?",
+		"answer" : "🌷 Très bonne question, merci de ton attention aux détails 🙏\r\nSi tu postules pour le grade Enseignant Formateur, la durée de la Plateforme de TP est fixée à environ 30 minutes ⏰.\r\nTu es invité(e) à rédiger un document de présentation de 2000 mots maximum, à joindre à ta PTP 🎓.\r\n🕒 Le dépôt pourra être effectué à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 📅."
+	},
+	{
+		"question" : "C’est quoi le temps alloué pour la sous sous composante évaluation ptp ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nSi tu es candidat(e) au grade Enseignant Formateur, la durée de la Plateforme de TP (PTP) est d’environ 30 minutes ⏱️.\r\nTu es également invité(e) à préparer un document de présentation 📝 de 2000 mots maximum, qui accompagne ta PTP 🎓.\r\n📅 Le dépôt peut être effectué à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️."
+	},
+	{
+		"question" : "duree production R&D innovation",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nPour la sous-sous composante **Production RDI**, aucune durée précise n’est imposée ⏳.\r\n👉 Tu es donc libre de définir la longueur de ton livrable selon le contenu que tu veux valoriser 💪📘.\r\nC'est possible à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️.\r\nRestez connectée 💻, les informations seront partagées dès qu’elles seront disponibles 💡."
+	},
+	{
+		"question" : "La sous sous composante supp péda, elle se fait en combien de temps ?",
+		"answer" : "🎯 Super question😎 !\r\nConcernant la sous-sous composante **Supports Pédagogiques**, il n’y a pas de limite de durée fixée.\r\n🎬 Votre livrable peut durer autant que nécessaire, l’essentiel est qu’il reste pertinent et complet 💼💬.\r\nLe dépôt peut se faire 🕒 à tout moment sur la plateforme, entre les dates de début et de fin qui seront annoncées prochainement 📅.\r\nPrépare-toi tranquillement, tout sera précisé bientôt 💪✨."
+	},
+	{
+		"question" : "C’est quoi la durée prévue pour entr_jury_all ?",
+		"answer" : "💫 Excellente question 🌼 !\r\nL’épreuve comprend une présentation du dossier de 20 minutes 🕒, suivie d’une discussion avec le jury d’environ 30 à 40 minutes 🎓.\r\n📅 La date et le lieu exacts seront communiqués ultérieurement — reste connecté(e) pour les infos officielles 💻✨."
+	},
+	{
+		"question" : "durée Discussions avec les mbres Jury",
+		"answer" : "🎯 Super question 👏 !\r\nCette épreuve se déroule en deux temps :\r\n👉 Une présentation de ton dossier (20 min)\r\n👉 Puis une discussion avec le jury (30 à 40 min) 💬\r\nLa date et le lieu seront annoncés prochainement 🗓️, donc garde un œil sur la plateforme 💡."
+	},
+	{
+		"question" : "durée entr_jury_all",
+		"answer" : "🌟 Très bonne question 💖\r\nL’épreuve consiste en une présentation du dossier (20 minutes) suivie d’une discussion avec le jury (30 à 40 minutes) 🎓.\r\n📍 Le lieu et la date exacte seront communiqués ultérieurement, dès validation du calendrier officiel 🗓️."
+	},
+	{
+		"question" : "durée entretien avec jury",
+		"answer" : "💫 Excellente question 🌼 !\r\nL’épreuve comprend une présentation du dossier de 20 minutes 🕒, suivie d’une discussion avec le jury d’environ 30 à 40 minutes 🎓.\r\n📅 La date et le lieu exacts seront communiqués ultérieurement — reste connecté(e) pour les infos officielles 💻✨."
+	},
+	{
+		"question" : "Entretien Jury, il dure combien de temps ?",
+		"answer" : "🎯 Super question 👏 !\r\nCette épreuve se déroule en deux temps :\r\n👉 Une présentation de ton dossier (20 min)\r\n👉 Puis une discussion avec le jury (30 à 40 min) 💬\r\nLa date et le lieu seront annoncés prochainement 🗓️, donc garde un œil sur la plateforme 💡."
+	},
+	{
+		"question" : "C’est quoi la durée prévue pour entretien avec jury ?",
+		"answer" : "🌟 Très bonne question 💖\r\nL’épreuve consiste en une présentation du dossier (20 minutes) suivie d’une discussion avec le jury (30 à 40 minutes) 🎓.\r\n📍 Le lieu et la date exacte seront communiqués ultérieurement, dès validation du calendrier officiel 🗓️."
+	},
+	{
+		"question" : "merci de me donner la duree de production rdi",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nPour la sous-sous Composante ** Production RDI**, il n'y a pas de restriction comment ca dure votre livrable.\r\nVous pouvez déposer vos livrables 📂 à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️.\r\nRestez à l’écoute, les informations seront bientôt disponibles 💡."
+	},
+	{
+		"question" : "durée pres_doss",
+		"answer" : "💫 Excellente question 🌼 !\r\nL’épreuve comprend une présentation du dossier de 20 minutes 🕒, suivie d’une discussion avec le jury d’environ 30 à 40 minutes 🎓.\r\n📅 La date et le lieu exacts seront communiqués ultérieurement — reste connecté(e) pour les infos officielles 💻✨."
+	},
+	{
+		"question" : "durée diss_jury",
+		"answer" : "💫 Excellente question 🌼 !\r\nL’épreuve comprend une présentation du dossier de 20 minutes 🕒, suivie d’une discussion avec le jury d’environ 30 à 40 minutes 🎓.\r\n📅 La date et le lieu exacts seront communiqués ultérieurement — reste connecté(e) pour les infos officielles 💻✨."
+	},
+	{
+		"question" : "Combien de minutes dure la sous sous composante dossier ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nPour la sous-sous Composante **Dossier**, il n'y a pas de restriction comment ca dure votre livrable.\r\nVous pouvez déposer vos livrables 📂 à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️.\r\nRestez à l’écoute, les informations seront bientôt disponibles 💡."
+	},
+	{
+		"question" : "C’est quoi la durée prévue pour l’examen doss ?",
+		"answer" : "🎯 Super question😎 !\r\nConcernant la sous-sous composante **Dossier**, il n’y a pas de limite de durée fixée.\r\n🎬 Votre livrable peut durer autant que nécessaire, l’essentiel est qu’il reste pertinent et complet 💼💬.\r\nLe dépôt peut se faire 🕒 à tout moment sur la plateforme, entre les dates de début et de fin qui seront annoncées prochainement 📅.\r\nPrépare-toi tranquillement, tout sera précisé bientôt 💪✨."
+	},
+	{
+		"question" : "durée Présentation de Dossier",
+		"answer" : "🎯 Excellente question, toujours au top de l’organisation 😎 !\r\nPour la sous-sous composante **Dossier**, aucune contrainte de durée n’est exigée 🕒.\r\n📝 Vous pouvez adapter la longueur de votre livrable à la nature de votre travail, tant qu’il respecte la qualité attendue 🌟.\r\nLe dépôt est possible à tout moment ⏱️ sur la plateforme, entre les dates de début et de fin qui seront annoncées prochainement 📅.\r\nPrépare tes fichiers tranquillement, tu seras informé(e) dès l’ouverture 💪✨."
+	},
+	{
+		"question" : "L’examen dossier, il dure combien de temps ?",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nPour la sous-sous Composante **Dossier**, il n'y a pas de restriction comment ca dure votre livrable.\r\nVous pouvez déposer vos livrables 📂 à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️.\r\nRestez à l’écoute, les informations seront bientôt disponibles 💡."
+	},
+	{
+		"question" : "La sous sous composante doss dure combien ?",
+		"answer" : "🌷 Très bonne question, merci de ta vigilance 💬\r\nPour la sous-sous composante **Dossier**, aucune contrainte de durée n’est exigée 🕒.\r\n📝 Vous pouvez adapter la longueur de votre livrable à la nature de votre travail, tant qu’il respecte la qualité attendue 🌟.\r\nLe dépôt de vos livrables est possible à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 🗓️.\r\n🔔 Les détails exacts seront communiqués dès que disponibles."
+	},
+	{
+		"question" : "Combien de temps les candidats ont pour dossier ?",
+		"answer" : "🎯 Excellente question, toujours au top de l’organisation 😎 !\r\nPour la sous-sous composante **Dossier**, aucune contrainte de durée n’est exigée 🕒.\r\n📝 Vous pouvez adapter la longueur de votre livrable à la nature de votre travail, tant qu’il respecte la qualité attendue 🌟.\r\nLe dépôt est possible à tout moment ⏱️ sur la plateforme, entre les dates de début et de fin qui seront annoncées prochainement 📅.\r\nPrépare tes fichiers tranquillement, tu seras informé(e) dès l’ouverture 💪✨."
+	},
+	{
+		"question" : "Combien de minutes dure Entretien avec les Jury ?",
+		"answer" : "💫 Excellente question 🌼 !\r\nL’épreuve comprend une présentation du dossier de 20 minutes 🕒, suivie d’une discussion avec le jury d’environ 30 à 40 minutes 🎓.\r\n📅 La date et le lieu exacts seront communiqués ultérieurement — reste connecté(e) pour les infos officielles 💻✨."
+	},
+	{
+		"question" : "duree entretien avec jury",
+		"answer" : "🎯 Super question 👏 !\r\nCette épreuve se déroule en deux temps :\r\n👉 Une présentation de ton dossier (20 min)\r\n👉 Puis une discussion avec le jury (30 à 40 min) 💬\r\nLa date et le lieu seront annoncés prochainement 🗓️, donc garde un œil sur la plateforme 💡."
+	},
+	{
+		"question" : "donner durrée entretien avec jury",
+		"answer" : "🌟 Très bonne question 💖\r\nL’épreuve consiste en une présentation du dossier (20 minutes) suivie d’une discussion avec le jury (30 à 40 minutes) 🎓.\r\n📍 Le lieu et la date exacte seront communiqués ultérieurement, dès validation du calendrier officiel 🗓️."
+	},
+	{
+		"question" : "duree discussion avec jury",
+		"answer" : "💫 Excellente question 🌼 !\r\nL’épreuve comprend une présentation du dossier de 20 minutes 🕒, suivie d’une discussion avec le jury d’environ 30 à 40 minutes 🎓.\r\n📅 La date et le lieu exacts seront communiqués ultérieurement — reste connecté(e) pour les infos officielles 💻✨."
+	},
+	{
+		"question" : "durée Questionnaires CM Totale",
+		"answer" : "🚀 Super question, j’adore ton sens du détail 😄 !\r\nLe Test QCM dure 1h30 pile ⏰.\r\nC’est un examen surveillé, et la date ainsi que le lieu seront annoncés plus tard 🗓️📍."
+	},
+	{
+		"question" : "duree production recherche développement et innovation",
+		"answer" : "🌷 Très bonne question, merci de ta vigilance 💬\r\nPour la sous-sous composante **Production RDI**, aucune contrainte de durée n’est exigée 🕒.\r\n📝 Vous pouvez adapter la longueur de votre livrable à la nature de votre travail, tant qu’il respecte la qualité attendue 🌟.\r\nLe dépôt de vos livrables est possible à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 🗓️.\r\n🔔 Les détails exacts seront communiqués dès que disponibles."
+	},
+	{
+		"question" : "durée Production RDI",
+		"answer" : "🎯 Super question😎 !\r\nConcernant la sous-sous composante **Production RDI**, il n’y a pas de limite de durée fixée.\r\n🎬 Votre livrable peut durer autant que nécessaire, l’essentiel est qu’il reste pertinent et complet 💼💬.\r\nLe dépôt peut se faire 🕒 à tout moment sur la plateforme, entre les dates de début et de fin qui seront annoncées prochainement 📅.\r\nPrépare-toi tranquillement, tout sera précisé bientôt 💪✨."
+	},
+	{
+		"question" : "Peux-tu me dire la durée de l’épreuve prod_rdi ?",
+		"answer" : "🎯 Super question😎 !\r\nConcernant la sous-sous composante **Production RDI**, il n’y a pas de limite de durée fixée.\r\n🎬 Votre livrable peut durer autant que nécessaire, l’essentiel est qu’il reste pertinent et complet 💼💬.\r\nLe dépôt peut se faire 🕒 à tout moment sur la plateforme, entre les dates de début et de fin qui seront annoncées prochainement 📅.\r\nPrépare-toi tranquillement, tout sera précisé bientôt 💪✨."
+	},
+	{
+		"question" : "durée supp_peda",
+		"answer" : "💫 Très précieuse question 🌸 !\r\nPour la sous-sous Composante **Supports Pédagogiques**, il n'y a pas de restriction comment ca dure votre livrable.\r\nVous pouvez déposer vos livrables 📂 à tout moment via la plateforme, entre la date de début et la date de fin qui seront communiquées ultérieurement 🗓️.\r\nRestez à l’écoute, les informations seront bientôt disponibles 💡."
+	},
+	{
+		"question" : "durée supp peda",
+		"answer" : "🌷 Très bonne question, merci de ta vigilance 💬\r\nPour la sous-sous composante **Supports Pédagogiques**, aucune contrainte de durée n’est exigée 🕒.\r\n📝 Vous pouvez adapter la longueur de votre livrable à la nature de votre travail, tant qu’il respecte la qualité attendue 🌟.\r\nLe dépôt de vos livrables est possible à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 🗓️.\r\n🔔 Les détails exacts seront communiqués dès que disponibles."
+	},
+	{
+		"question" : "Quelle est la durée officielle de Dossiers ?",
+		"answer" : "🌷 Très bonne question, merci de ta vigilance 💬\r\nPour la sous-sous composante **Dossier**, aucune contrainte de durée n’est exigée 🕒.\r\n📝 Vous pouvez adapter la longueur de votre livrable à la nature de votre travail, tant qu’il respecte la qualité attendue 🌟.\r\nLe dépôt de vos livrables est possible à tout moment via la plateforme, entre la date d’ouverture et de clôture qui seront précisées ultérieurement 🗓️.\r\n🔔 Les détails exacts seront communiqués dès que disponibles."
+	},
+	{
+		"question" : "Quelle est la durée totale de l’examen doss ?",
+		"answer" : "🎯 Super question😎 !\r\nConcernant la sous-sous composante **Dossier**, il n’y a pas de limite de durée fixée.\r\n🎬 Votre livrable peut durer autant que nécessaire, l’essentiel est qu’il reste pertinent et complet 💼💬.\r\nLe dépôt peut se faire 🕒 à tout moment sur la plateforme, entre les dates de début et de fin qui seront annoncées prochainement 📅.\r\nPrépare-toi tranquillement, tout sera précisé bientôt 💪✨."
+	}
+]}

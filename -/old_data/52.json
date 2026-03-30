@@ -1,0 +1,87 @@
+{
+"select question, answer from \"BOT_FAQ\" bf where id_intent = 52": [
+	{
+		"question" : "Les livrables doivent être en PDF ou vidéo ?",
+		"answer" : "Bonne question 👏 ! \r\n📘 Les livrables doivent être déposés soit au format PDF 📄, soit au format vidéo 🎬.\r\n💾 Ce sont les deux formats acceptés pour les composantes 2 et 3, avec une limite de 1 Go par fichier.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "Quelle est la taille maximale des fichiers à déposer ?",
+		"answer" : "Merci pour ta question 💡 !\r\n📂 La taille maximale autorisée pour chaque fichier est de 1 Go ⚠️.\r\n🎬 Cela s’applique à tous les livrables, qu’ils soient en PDF 📄 ou en vidéo 🎥.\r\nVeille simplement à compresser tes fichiers si nécessaire avant le dépôt 💻."
+	},
+	{
+		"question" : "Où déposer les livrables ?",
+		"answer" : "Génial 💡 ! Voici les précisions 📦\r\nles dépôts seront effectués via la plateforme dans les espaces dédiés."
+	},
+	{
+		"question" : "c'est possible le depot d'un pdf",
+		"answer" : "Bien évidement 👏 !\r\nOui tout à fait, le **PDF** est le format autorisé ✅ .\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "De quel type doivent être les livrables ?",
+		"answer" : "Merci pour ta question 💡 !\r\nVia la plateforme, vous êtes invité de déposer des vidéos 🎥 ou PDF 📑, dont la taille ne doit pas dépasser 1 Go par unité 🚨."
+	},
+	{
+		"question" : "c'est possible le depot d'une video .mp4",
+		"answer" : "Bien évidement 👏 !\r\nOui tout à fait, le **Vidéo MP4** est le format autorisé ✅ .\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'une  video .mov",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **MOV**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'une  video .qt",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **QT**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'une  video .avi",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **AVI**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'une  video .mkv\r\n",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **MKV**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'une  video .swf",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **SWF**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "est ce que je peux déposer une  video .mov",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **MOV**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "est ce que je peux déposer un document word",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **PDF** au lieu du Word.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'un document word",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **PDF** au lieu du Word.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'un document excel",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **PDF** au lieu du **Excel**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'une  video .wmv",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **WMV**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'une  video .webm",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **WEBM**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "c'est possible le depot d'une  video .flv",
+		"answer" : "Trés précieu 👏 !\r\n⛔ Non, ce n'est pas autorisé.\r\nLes livrables doivent être déposés au format **Vidéo MP4** au lieu du **FLV**.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "quel est les types de documents",
+		"answer" : "Bonne question 👏 ! Oui, tout à fait ✅\r\n📘 Les livrables doivent être déposés soit au format PDF 📄, soit au format vidéo 🎬.\r\n💾 Ce sont les deux formats acceptés pour les composantes 2 et 3, avec une limite de 1 Go par fichier.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "quel est les types de livrables",
+		"answer" : "Bonne question 👏 ! Oui, tout à fait ✅\r\n📘 Les livrables doivent être déposés soit au format PDF 📄, soit au format vidéo 🎬.\r\n💾 Ce sont les deux formats acceptés pour les composantes 2 et 3, avec une limite de 1 Go par fichier.\r\n🎯 Cela garantit une compatibilité et une qualité optimale pour l’évaluation !"
+	},
+	{
+		"question" : "Quels sont les formats autorisés pour les épreuves ?",
+		"answer" : "Excellente question 👏 ! Voici un aperçu clair des types de différents épreuves et livrables 📚\r\nLes documents à soumettre via la plateforme peuvent être au format vidéo 🎬 ou PDF 📄"
+	}
+]}

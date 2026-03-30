@@ -1,0 +1,91 @@
+{
+"select question, answer from \"BOT_FAQ\" bf where id_intent = 47": [
+	{
+		"question" : "les epreuves sont ils en lignes",
+		"answer" : "Remarque trés importante 👍\nSeules les épreuves de la composante 1, seront effectuées à **ESPRIT** ou **ESB** (à préciser bientôt).\nLe restes des épreuves pourront être déposées partout — même depuis votre canapé 😊 !"
+	},
+	{
+		"question" : "les epreuves sont il en présentiels",
+		"answer" : "Vous avez relever un point trés precieu 👍\nPas tous les épreuves :\n- Uniquement, les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\n- Si non, Le restes des épreuves pourront être déposées chez vous ou votre lieu de travail 🏠💼 : c'est à vous de choisir"
+	},
+	{
+		"question" : "les epreuves sont il en lignes",
+		"answer" : "Remarque trés importante 👍\nSeules les épreuves de la composante 1, seront effectuées à **ESPRIT** ou **ESB** (à préciser bientôt).\nLe restes des épreuves pourront être déposées partout — même depuis votre canapé 😊 !"
+	},
+	{
+		"question" : "les epreuves sont ils en présentiels",
+		"answer" : "Vous avez relever un point trés precieu 👍\nPas tous les épreuves :\n- Uniquement, les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\n- Si non, Le restes des épreuves pourront être déposées chez vous ou votre lieu de travail 🏠💼 : c'est à vous de choisir"
+	},
+	{
+		"question" : "les epreuves sont ils en presentiels",
+		"answer" : "Vous avez relever un point trés precieu 👍\nPas tous les épreuves :\n- Uniquement, les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\n- Si non, Le restes des épreuves pourront être déposées chez vous ou votre lieu de travail 🏠💼 : c'est à vous de choisir"
+	},
+	{
+		"question" : "les épreuves sont il en lignes",
+		"answer" : "Remarque trés importante 👍\nSeules les épreuves de la composante 1, seront effectuées à **ESPRIT** ou **ESB** (à préciser bientôt).\nLe restes des épreuves pourront être déposées partout — même depuis votre canapé 😊 !"
+	},
+	{
+		"question" : "les épreuves sont ils en lignes",
+		"answer" : "Remarque trés importante 👍\nSeules les épreuves de la composante 1, seront effectuées à **ESPRIT** ou **ESB** (à préciser bientôt).\nLe restes des épreuves pourront être déposées partout — même depuis votre canapé 😊 !"
+	},
+	{
+		"question" : "les épreuves sont il en présentiels",
+		"answer" : "Vous avez relever un point trés precieu 👍\nPas tous les épreuves :\n- Uniquement, les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\n- Si non, Le restes des épreuves pourront être déposées chez vous ou votre lieu de travail 🏠💼 : c'est à vous de choisir"
+	},
+	{
+		"question" : "les épreuves sont ils en présentiels",
+		"answer" : "Vous avez relever un point trés precieu 👍\nPas tous les épreuves :\n- Uniquement, les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\n- Si non, Le restes des épreuves pourront être déposées chez vous ou votre lieu de travail 🏠💼 : c'est à vous de choisir"
+	},
+	{
+		"question" : "les épreuves sont ils en presentiels",
+		"answer" : "Vous avez relever un point trés precieu 👍\nPas tous les épreuves :\n- Uniquement, les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\n- Si non, Le restes des épreuves pourront être déposées chez vous ou votre lieu de travail 🏠💼 : c'est à vous de choisir"
+	},
+	{
+		"question" : "Quand aura lieu la session de passage de grades ?",
+		"answer" : "Excellente question 🌟 !\r\nVoici les détails concernant le déroulement des épreuves :\r\n🏫 La composante 1 se fera en présentiel dans les locaux **ESPRIT**\/**ESB**.\r\n📦 Les composantes 2 et 3 peuvent être déposées à distance, où que vous soyez 🌐 !"
+	},
+	{
+		"question" : "Où se dérouleront les épreuves ?",
+		"answer" : "Bonne question 😊 !\r\nVoici comment cela se passe 👇\r\n📍 Les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\r\n🖥️ Quant aux composantes 2 et 3, le dépôt peut se faire partout en ligne via la plateforme — à la maison 🏠, au travail 💼, ou où vous le souhaitez 🌍 !"
+	},
+	{
+		"question" : "C’est où les épreuves ?",
+		"answer" : "Excellente question 🌟 !\nVoici les détails concernant le déroulement des épreuves :\n🏫 La composante 1 se fera en présentiel dans les locaux **ESPRIT**\/**ESB**.\n📦 Les composantes 2 et 3 peuvent être déposées à distance, où que vous soyez 🌐 !"
+	},
+	{
+		"question" : "lieu des épreuves",
+		"answer" : "Merci d’avoir posé la question 💬 !\nVoici ce qu’il faut savoir :\n🏫 La composante 1 se déroulera à **ESPRIT** ou **ESB** (à préciser bientôt).\n📤 Les composantes 2 et 3, elles, peuvent être déposées partout — même depuis votre canapé 😊 !"
+	},
+	{
+		"question" : "Où auront lieu les épreuves ?",
+		"answer" : "Merci pour ta question 🙌 !\nVoici les infos importantes 📚\n🎓 Les épreuves de la composante 1 se dérouleront en local **ESPRIT** ou **ESB** (📢 lieu confirmé ultérieurement).\n💡 Les composantes 2 et 3 ? Vous pouvez les déposer en ligne de n’importe où : maison 🏡, bureau 🖥️, café ☕… à votre convenance !"
+	},
+	{
+		"question" : "Dans quel endroit se passent les épreuves ?",
+		"answer" : "Très bonne remarque 👏 !\nVoici la réponse officielle 📋\n📍 Les épreuves de la composante 1 se tiendront dans les locaux **ESPRIT** ou **ESB** (détails à venir).\n💻 Pour les composantes 2 et 3, pas besoin de vous déplacer 🚗 : vous pouvez les déposer depuis chez vous ou votre lieu de travail 🏠💼."
+	},
+	{
+		"question" : "ou se deroulent les examen",
+		"answer" : "Bonne question 😊 !\r\nVoici comment cela se passe 👇\r\n📍 Les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\r\n🖥️ Quant aux composantes 2 et 3, le dépôt peut se faire partout en ligne via la plateforme — à la maison 🏠, au travail 💼, ou où vous le souhaitez 🌍 !"
+	},
+	{
+		"question" : "Ou auront lieu les épreuves ?",
+		"answer" : "Merci pour ta question 🙌 !\nVoici les infos importantes 📚\n🎓 Les épreuves de la composante 1 se dérouleront en local **ESPRIT** ou **ESB** (📢 lieu confirmé ultérieurement).\n💡 Les composantes 2 et 3 ? Vous pouvez les déposer en ligne de n’importe où : maison 🏡, bureau 🖥️, café ☕… à votre convenance !"
+	},
+	{
+		"question" : "lieu de deroulement des épreuves",
+		"answer" : "Bonne question 😊 !\r\nVoici comment cela se passe 👇\r\n📍 Les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\r\n🖥️ Quant aux composantes 2 et 3, le dépôt peut se faire partout en ligne via la plateforme — à la maison 🏠, au travail 💼, ou où vous le souhaitez 🌍 !"
+	},
+	{
+		"question" : "ou se deroulent les epreuve de passage de grade",
+		"answer" : "Bonne question 😊 !\r\nVoici comment cela se passe 👇\r\n📍 Les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\r\n🖥️ Quant aux composantes 2 et 3, le dépôt peut se faire partout en ligne via la plateforme — à la maison 🏠, au travail 💼, ou où vous le souhaitez 🌍 !"
+	},
+	{
+		"question" : "lieu de deroulement des epreuves",
+		"answer" : "Bonne question 😊 !\r\nVoici comment cela se passe 👇\r\n📍 Les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\r\n🖥️ Quant aux composantes 2 et 3, le dépôt peut se faire partout en ligne via la plateforme — à la maison 🏠, au travail 💼, ou où vous le souhaitez 🌍 !"
+	},
+	{
+		"question" : "lieu de deroulement des épreuves de passage de grade",
+		"answer" : "Bonne question 😊 !\r\nVoici comment cela se passe 👇\r\n📍 Les épreuves de la composante 1 auront lieu en présentiel dans les locaux **ESPRIT** ou **ESB** 🏫 (le lieu exact sera communiqué bientôt).\r\n🖥️ Quant aux composantes 2 et 3, le dépôt peut se faire partout en ligne via la plateforme — à la maison 🏠, au travail 💼, ou où vous le souhaitez 🌍 !"
+	}
+]}

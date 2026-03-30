@@ -54,3 +54,5 @@ Séquences Enseignement total
 Sequences Enseignement Totale
 Séquences Enseignement Totale
 Séquences Enseignements
+sequence ens
+sequences ens

@@ -1,0 +1,399 @@
+{
+"BOT_TRAINING_EXAMPLES": [
+	{
+		"id_training_example" : 2622,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Quel examen effectuée via Moodle",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2623,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "examen Moodle",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2624,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "test Moodle",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2625,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "épreuve Moodle",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2626,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Quel examen effectuée via la Plateforme",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2627,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Quel test effectuée via la Plateforme",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2628,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Quel épreuve effectuée via la Plateforme",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2629,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "examen contrôlé",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2630,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "examen encadré",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2631,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "épreuve supervisée",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2632,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "épreuve sous controle",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2634,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Moodle",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2635,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "examens surveillés",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 2633,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "quelles sont les types des épreuves",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3140,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "préparer une présentation",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3138,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Y a-t-il une épreuve orale ou un entretien",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3141,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Qui participera à l’entretien ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3142,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Quels membres seront présents pendant l’entretien ? 👩‍⚖️👨‍⚖️",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3144,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Qui sera dans la salle d’entretien ? 🏛️",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3145,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Quelles personnes assisteront à l’entretien ? 👥",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3147,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Qui sera là pour l’entretien avec le Jury ? 💬",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3148,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Pouvez-vous me dire qui sera présent pendant l’entretien ? 🧐",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3143,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "participants lors de l'entretien avec jury",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3210,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "Les candidats ont-ils la possibilité de répondre ou de fournir des éclaircissements sur des points soulevés par le comité ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3725,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "types des épreuves",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3726,
+		"created_date" : "2025-07-20T08:30:46.641Z",
+		"example" : "quelles sont les types des epreuves",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3727,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Je vous prie de bien vouloir détailler les différents types d’épreuves",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3728,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de préciser la nature et la typologie des épreuves",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3729,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Je souhaiterais une présentation claire des différentes épreuves prévues",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3730,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Veuillez présenter les différentes catégories d’épreuves s’il vous plaît",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3731,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Pouvez-vous exposer les types d’épreuves concernés",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3732,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de fournir une description structurée des types d’épreuves",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3733,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Veuillez indiquer les épreuves prévues ainsi que leurs caractéristiques principales",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3734,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de détailler les différentes types des épreuves",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3735,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Pourriez-vous clarifier la distinction entre les divers types des épreuves",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3736,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Une présentation synthétique des épreuves serait grandement appréciée.",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3737,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Peux-tu me donner un petit aperçu des types d’épreuves, stp ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3738,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "J’aimerais bien que tu me présentes un peu les différentes épreuves !",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3739,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Tu peux me faire un petit résumé des types d’épreuves prévus ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3740,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Dis-m’en plus sur les types des épreuves ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3741,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Allez, fais-moi découvrir les types d’épreuves au programme",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3742,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de me présenter brièvement les types d’épreuves prévues, histoire d’avoir une vue d’ensemble",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3743,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Peux-tu m’expliquer les différentes formes que peuvent prendre les épreuves ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3744,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "J’aimerais une courte présentation des types d’épreuves, pour mieux situer le cadre.",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3745,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de détailler les catégories d’épreuves prévues dans le processus.",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3746,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Peux-tu me préciser comment les épreuves sont réparties?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3747,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Je vous prie de bien vouloir détailler les différents types d’examens",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3748,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de préciser la nature et la typologie des examens",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3749,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Je souhaiterais une présentation claire des différentes examens prévues",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3750,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Veuillez présenter les différentes catégories d’examens s’il vous plaît",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3751,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Pouvez-vous exposer les types d’examens concernés",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3752,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de fournir une description structurée des types d’examens",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3753,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Veuillez indiquer les examens prévues ainsi que leurs caractéristiques principales",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3754,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de détailler les différentes types des examens",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3755,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Pourriez-vous clarifier la distinction entre les divers types des examens",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3756,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Une présentation synthétique des examens serait grandement appréciée.",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3757,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Peux-tu me donner un petit aperçu des types d’examens, stp ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3758,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "J’aimerais bien que tu me présentes un peu les différentes examens !",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3759,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Tu peux me faire un petit résumé des types d’examens prévus ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3760,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Dis-m’en plus sur les types des examens ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3761,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Allez, fais-moi découvrir les types d’examens au programme",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3762,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de me présenter brièvement les types d’examens prévues, histoire d’avoir une vue d’ensemble",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3763,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Peux-tu m’expliquer les différentes formes que peuvent prendre les examens ?",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3764,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "J’aimerais une courte présentation des types d’examens, pour mieux situer le cadre.",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3765,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Merci de détailler les catégories d’examens prévues dans le processus.",
+		"id_intent" : 65
+	},
+	{
+		"id_training_example" : 3766,
+		"created_date" : "2025-10-29T09:51:49.906Z",
+		"example" : "Peux-tu me préciser comment les examens sont réparties?",
+		"id_intent" : 65
+	}
+]}

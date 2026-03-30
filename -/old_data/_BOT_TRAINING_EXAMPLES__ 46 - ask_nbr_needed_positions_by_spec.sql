@@ -1,0 +1,97 @@
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [EM](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [em](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [gc](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [gc|em|ged|tic|math|lcom](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [Genie civil](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [ged](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [Génie Énergétique et Développement Durable](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [tic](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [technologies de l’information et de la communication](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [math](speciality) ?',46);
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [mathematique](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [lcom](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre de positions demandes pour [langue et Communication](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','Peux-tu me dire combien de postes sont ouverts en [Génie électromécanique](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','Combien de postes sont disponibles pour [EM](speciality) ?',46),
+	 ('2025-08-08 09:35:12.111','Combien de postes pour Enseignant Formateur en [ged](speciality) ?',46),
+	 ('2025-08-14 09:55:12.111','Combien de postes sont disponibles pour la spécialité [lcom](speciality) ?',46),
+	 ('2025-08-08 09:35:12.111','Quel est le nombre de postes pour [tic](speciality) ?',46),
+	 ('2025-08-14 09:55:12.111','Combien de postes sont disponibles pour la spécialité [Technologies de l’Information et de la Communication](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Peux-tu me dire combien de postes sont proposés pour [technologies informatiques et communicationnelles](speciality) ?',46);
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-08-08 09:35:12.111','Est-ce que la spécialité [technologies de l’information et de la communication](speciality) recrute cette année ?',46),
+	 ('2025-08-08 09:35:12.111','La spécialité [ged](speciality) recrute-t-elle cette année ?',46),
+	 ('2025-08-12 10:21:12.111','Y a-t-il des postes ouverts pour la spécialité [TIC](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','Peux-tu me dire combien de postes pour [Génie Énergétique et Développement Durable](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de postes sont ouverts en [génie énergétique et développement durable](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de postes sont ouverts en [Génie Civil](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Est-ce que la spécialité [Gc](speciality) est concernée ?',46),
+	 ('2025-07-16 01:35:12.1119','Est-ce que [GED](speciality) fait partie des spécialités concernées ?',46),
+	 ('2025-08-14 09:57:12.111','Y a-t-il des postes disponibles pour la spécialité [gC](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','Y a-t-il des postes pour la spécialité [Electromécanique](speciality) ?',46);
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-08-14 09:57:12.111','Est-ce que la spécialité [Électromecanique](speciality) est concernée par le passage de grades ?',46),
+	 ('2025-08-08 09:35:12.111','Y a-t-il des postes disponibles pour la spécialité [GC](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de postes pour la spécialité [gc](speciality) ?',46),
+	 ('2025-08-08 09:35:12.111','Combien de postes pour Enseignant Formateur en [em](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Peux-tu me dire combien de postes sont proposés pour [lcom](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de postes sont ouverts en [ged](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','Combien de postes sont disponibles pour [gc](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Est-ce que la spécialité [Mathématiques](speciality) recrute cette année ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de places pour Enseignant de [Langue, Communication et Citoyenneté](speciality)  ?',46),
+	 ('2025-08-14 09:57:12.111','Peux-tu me dire s’il y a des postes pour [LCC](speciality) ?',46);
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-08-14 09:57:12.111','Y a-t-il des postes pour [Langue & communication](speciality) cette année ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de postes sont disponibles pour la spécialité [Maths](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Peux-tu me dire combien de postes pour [Mathématique](speciality)',46),
+	 ('2025-08-14 09:57:12.111','Y a-t-il des postes ouverts pour les professeurs de [mathématiques](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de places sont prévues pour [math](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Est-ce que la spécialité [lcom](speciality) est concernée ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de postes sont disponibles pour [langue et communication](speciality)  ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de postes sont disponibles pour [electronique et mécanique](speciality) ?',46),
+	 ('2025-10-07 14:27:11.123','Combien de postes sont disponibles pour la spécialité [Genie Energétique et Developpement Durable](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','Combien de postes sont disponibles pour [EM](speciality) ?',46);
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-07-16 01:35:12.1119','Combien de postes sont disponibles pour [Électronique et Mécanique](speciality) ?',46),
+	 ('2025-08-14 09:57:12.111','Est-ce que la spécialité [em](speciality) est concernée ?',46),
+	 ('2025-08-14 09:57:12.111','Est-ce que la spécialité [electromecanique](speciality) est concernée ?',46),
+	 ('2025-08-14 09:55:12.111','Combien de postes sont disponibles pour la spécialité [gc](speciality) ?',46),
+	 ('2025-08-08 09:35:12.111','Est-ce que la spécialité [ged](speciality) recrute cette année ?',46),
+	 ('2025-08-14 09:57:12.111','Combien de postes pour la spécialité [math](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','Combien de postes sont disponibles pour [lcom](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','Peux-tu me dire combien de postes sont ouverts en [em](speciality) ?',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre des positions demandes par specialite',46),
+	 ('2025-07-16 01:35:12.1119','donner le nombre des postes à pourvoir',46);
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-07-16 01:35:12.1119','donner le nombre des postes demandées',46),
+	 ('2025-07-16 01:35:12.1119','nombre des positions demandes par specialite',46),
+	 ('2025-07-16 01:35:12.1119','nombre des postes à pourvoir',46),
+	 ('2025-07-16 01:35:12.1119','nombre des postes demandées',46),
+	 ('2025-07-16 01:35:12.1119','nombre des positions à pourvoir',46),
+	 ('2025-07-16 01:35:12.1119','nombre des positions demandées',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [em](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [tic](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [gc](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [mathématiques](speciality)',46);
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [ged](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Enseignant [langue et communication](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','merci de me donner la repartitions des postes par specialite',46),
+	 ('2025-07-16 01:35:12.1119','repartitions des postes par specialite',46),
+	 ('2025-07-16 01:35:12.1119','nombres des postes par specialite',46),
+	 ('2025-07-16 01:35:12.1119','postes par specialite',46),
+	 ('2025-07-16 01:35:12.1119','merci de me donner la repartitions des postes par specialité',46),
+	 ('2025-07-16 01:35:12.1119','repartitions des postes par specialité',46),
+	 ('2025-07-16 01:35:12.1119','postes par specialité',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [Electromecanique](speciality)',46);
+INSERT INTO public."BOT_TRAINING_EXAMPLES" (created_date,example,id_intent) VALUES
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [technologies de l’information et de communication](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [Genie Civil](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [math](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé en [genie energétique et developpement durable](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Enseignant [lcom](speciality)',46),
+	 ('2025-07-16 01:35:12.1119','nombre des positions à pourvoir',46),
+	 ('2025-07-16 01:35:12.1119','Je suis Enseignant Formateur Associé',46),
+	 ('2025-07-16 01:35:12.1119','je me présente : Je suis Enseignant Formateur Associé',46);
